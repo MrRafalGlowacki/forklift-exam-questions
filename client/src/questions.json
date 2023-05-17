@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "text": "Urządzenie techniczne objęte dozorem technicznym może być eksploatowane na podstawie:",
+      "options": [
+        "zezwolenia ustnego lub pisemnego wydanego przez upoważnionego konserwatora",
+        "ważnej decyzji zezwalającej na eksploatacje wydanej przez organ właściwej jednostki dozoru technicznego",
+        "oznaczenia CE zamieszczonego na urządzeniu",
+        "deklaracji zgodności wystawionej przez wytwórcę"
+      ],
+      "correctAnswer": "ważnej decyzji zezwalającej na eksploatacje wydanej przez organ właściwej jednostki dozoru technicznego"
+    },
+    {
+      "text": "Które z wymienionych czynności nie należą do zakresu obowiązków obsługującego UTB:",
+      "options": [
+        "wykonywanie niewielkich napraw urządzenia w ramach posiadanego wykształcenia i umiejętności",
+        "przestrzeganie instrukcji eksploatacji w zakresie obsługi UTB",
+        "zapoznanie się z planem pracy i wielkością przenoszonych ładunków",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "wykonywanie niewielkich napraw urządzenia w ramach posiadanego wykształcenia i umiejętności"
+    },
+    {
+      "text": "Terminy przeglądów konserwacyjnych urządzeń technicznych:",
+      "options": [
+        "są zawarte w instrukcji eksploatacji urządzenia ",
+        "określa konserwator urządzenia",
+        "określa w protokole inspektor wykonujący badanie ",
+        "wszystkie odpowiedzi sa poprawne"
+      ],
+      "correctAnswer": "są zawarte w instrukcji eksploatacji urządzenia "
+    }
+  ]
+}
