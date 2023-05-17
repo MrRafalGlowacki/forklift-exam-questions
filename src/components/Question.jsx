@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import css from "./Question.module.css";
 
 const Question = ({ question, options, onNextQuestion }) => {
   const [selectedOption, setSelectedOption] = useState(null);
@@ -52,13 +51,16 @@ const Question = ({ question, options, onNextQuestion }) => {
           </li>
         ))}
       </ol>
-      <div className={css.buttoncontainer}>
+      <div>
         {isAnswered ? (
-          <button className={css.nextbtn} onClick={handleNextQuestion}>
+          <button style={{ marginLeft: "200px" }} onClick={handleNextQuestion}>
             Następne pytanie
           </button>
         ) : (
-          <button className={css.checkbtn} onClick={checkAnswer}>
+          <button
+            style={{ marginLeft: "2%", width: "150px" }}
+            onClick={checkAnswer}
+          >
             Sprawdź odpowiedź
           </button>
         )}
