@@ -1,0 +1,13 @@
+.buttoncontainer {
+  display: flex;
+}
+.nextbtn {
+  margin-left: 200px;
+}
+.checkbtn {
+  margin-left: 2%;
+  width: 150px;
+}
+.image {
+  max-width: 600px;
+}

@@ -1,6 +1,7 @@
 {
   "questions": [
     {
+      "id": "1",
       "text": "Urządzenie techniczne objęte dozorem technicznym może być eksploatowane na podstawie:",
       "options": [
         "zezwolenia ustnego lub pisemnego wydanego przez upoważnionego konserwatora",
@@ -11,6 +12,7 @@
       "correctAnswer": "ważnej decyzji zezwalającej na eksploatacje wydanej przez organ właściwej jednostki dozoru technicznego"
     },
     {
+      "id": "2",
       "text": "Które z wymienionych czynności nie należą do zakresu obowiązków obsługującego UTB:",
       "options": [
         "wykonywanie niewielkich napraw urządzenia w ramach posiadanego wykształcenia i umiejętności",
@@ -21,6 +23,7 @@
       "correctAnswer": "wykonywanie niewielkich napraw urządzenia w ramach posiadanego wykształcenia i umiejętności"
     },
     {
+      "id": "3",
       "text": "Terminy przeglądów konserwacyjnych urządzeń technicznych:",
       "options": [
         "są zawarte w instrukcji eksploatacji urządzenia ",
@@ -29,6 +32,364 @@
         "wszystkie odpowiedzi sa poprawne"
       ],
       "correctAnswer": "są zawarte w instrukcji eksploatacji urządzenia "
+    },
+    {
+      "id": "4",
+      "text": "Dozorem technicznym nazywamy:",
+      "options": [
+        "określone ustawa działania zmierzające do zapewnienia bezpiecznego funkcjonowania urządzeń technicznych i urządzeń do odzyskiwania par paliwa oraz działania zmierzające do zapewnienia bezpieczeństwa publicznego w tych obszarach",
+        "instytucje kontrolujące stan techniczny urządzeń ",
+        "Urzad Dozoru Technicznego",
+        "UDT, WDT, TDT"
+      ],
+      "correctAnswer": "określone ustawa działania zmierzające do zapewnienia bezpiecznego funkcjonowania urządzeń technicznych i urządzeń do odzyskiwania par paliwa oraz działania zmierzające do zapewnienia bezpieczeństwa publicznego w tych obszarach"
+    },
+    {
+      "id": "5",
+      "text": "Dozór techniczny nad urządzeniami technicznymi wykonuje:",
+      "options": [
+        "Urząd Dozoru Technicznego oraz specjalistyczne jednostki dozoru technicznego",
+        "Urząd Dozoru Techniczego oraz upoważnione przez UDT organizacje",
+        "Urząd Dozoru Technicznego i zagraniczne jednostki dozoru technicznego",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "Urząd Dozoru Technicznego oraz specjalistyczne jednostki dozoru technicznego"
+    },
+    {
+      "id": "6",
+      "text": "Zmiana parametrów technicznych lub zmiana konstrukcji urządzenia technicznego traktowana jest jako",
+      "options": [
+        "modernizacja urządzenia technicznego",
+        "naprawa urządzenia technicznego",
+        "usuwanie usterek i innych nieprawidlowości urządzenia technicznego",
+        "wytworzenie nowego urządzenia"
+      ],
+      "correctAnswer": "modernizacja urządzenia technicznego"
+    },
+    {
+      "id": "7",
+      "text": "Uzgodnioną naprawę lub modernizację urządzeń technicznych może wykonać:",
+      "options": [
+        "naprawiający lub modernizujący, który posiada uprawnienie wydane przez organ właściwej jednostki dozoru technicznego",
+        "eksploatujący urządzenie techniczne posiadający odpowiednie doświadczenie w zakresie napraw lub modernizacji",
+        "konserwator posiadający odpowiednie doświadczenie w zakresie napraw lub modernizacji",
+        "w niewielkim zakresie kompetentny operator"
+      ],
+      "correctAnswer": "naprawiający lub modernizujący, który posiada uprawnienie wydane przez organ właściwej jednostki dozoru technicznego"
+    },
+    {
+      "id": "8",
+      "text": "Ustawa o dozorze technicznym określa następujące formy dozoru technicznego",
+      "options": [
+        "całkowita, częściowa, ograniczona",
+        "pełna, ograniczona, uproszczona",
+        "pełna, cykliczna, sporadyczna",
+        "UDT, WDT, TDT"
+      ],
+      "correctAnswer": "pełna, ograniczona, uproszczona"
+    },
+    {
+      "id": "9",
+      "text": "Decyzje zezwalająca na eksploatacje urządzenia technicznego wydaje",
+      "options": [
+        "konserwator po wykonaniu przeglądu z wynikiem pozytywnym",
+        "organ właściwej jednostki dozoru technicznego lub eksploatujący urządzenie techniczne z upoważnienia organu właściwej jednostki dozoru technicznego",
+        "organ właściwej jednostki dozoru technicznego lub organ administracji publicznej z upoważnienia organu właściwej jednostki dozoru technicznego",
+        "organ właściwej jednostki dozoru technicznego"
+      ],
+      "correctAnswer": "organ właściwej jednostki dozoru technicznego"
+    },
+    {
+      "id": "10",
+      "text": "Obsługujący urządzenie techniczne może podjąć prace gdy",
+      "options": [
+        "urządzenie posiada ważna decyzje zezwalająca na eksploatacje jeżeli wymagają tego odpowiednie przepisy",
+        "posiada zaświadczenie kwalifikacyjne odpowiedniej kategorii",
+        "urządzenie posiada aktualny pozytywny wynik przeglądu konserwacyjnego",
+        "wszystkie powyższe warunki muszą być spełnione jednocześnie"
+      ],
+      "correctAnswer": "wszystkie powyższe warunki muszą być spełnione jednocześnie"
+    },
+    {
+      "id": "11",
+      "text": "Obsługujący urządzenie techniczne może podjąć pracę gdy",
+      "options": [
+        "urządzenie posiada aktualny wpis w dzienniku konserwacji potwierdzający sprawność urządzenia",
+        "przeszedł odpowiednie szkolenie stanowiskowe",
+        "urządzenie posiada ważna decyzje zezwalająca na eksploatacje",
+        "wszystkie powyższe warunki muszą być spełnione jednocześnie"
+      ],
+      "correctAnswer": "wszystkie powyższe warunki muszą być spełnione jednocześnie"
+    },
+    {
+      "id": "12",
+      "text": "W przypadku nieprzestrzegania przez eksploatującego przepisów o dozorze technicznym eksploatujący",
+      "options": [
+        "otrzymuje pisemne upomnienie",
+        "otrzymuje zalecenia pokontrolne",
+        "podlega grzywnie lub karze ograniczenia wolności",
+        "odpowiedz a i b jest prawidłowa"
+      ],
+      "correctAnswer": "podlega grzywnie lub karze ograniczenia wolności"
+    },
+    {
+      "id": "13",
+      "text": "W przypadku stwierdzenia zagrożenia dla życia lub zdrowia ludzkiego oraz mienia i środowiska inspektor",
+      "options": [
+        "wydaje decyzje wstrzymująca eksploatacje urządzenia technicznego",
+        "wystawia mandat karny",
+        "pisemnie poucza eksploatującego",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "wydaje decyzje wstrzymująca eksploatacje urządzenia technicznego"
+    },
+    {
+      "id": "14",
+      "text": "W przypadku niebezpiecznego uszkodzenia urządzenia technicznego lub nieszczęśliwego wypadku eksploatujący",
+      "options": [
+        "niezwłocznie powiadamia UDT o zaistniałym zdarzeniu",
+        "powiadamia producenta urządzenia o przyczynach powstałego zdarzenia",
+        "niezwłocznie dokonuje naprawy urządzenia i przekazuje do dalszej eksploatacji",
+        "zgłasza urządzenie do wykonania naprawy"
+      ],
+      "correctAnswer": "niezwłocznie powiadamia UDT o zaistniałym zdarzeniu"
+    },
+    {
+      "id": "15",
+      "text": "Zaświadczenie kwalifikacyjne do obsługi może zostać cofnięte przez",
+      "options": [
+        "organ właściwej jednostki dozoru technicznego",
+        "eksploatującego urządzenie techniczne",
+        "inspektora bhp",
+        "Państwowa Inspekcje Pracy"
+      ],
+      "correctAnswer": "organ właściwej jednostki dozoru technicznego"
+    },
+    {
+      "id": "16",
+      "text": "Urządzenia techniczne nieobjęte dozorem technicznym to",
+      "options": [
+        "żurawie o udźwigu do 3,2 t",
+        "wciągniki i wciągarki oraz suwnice",
+        "wózki jezdniowe podnośnikowe oraz podesty ruchome",
+        "zawiesia transportowe"
+      ],
+      "correctAnswer": "zawiesia transportowe"
+    },
+    {
+      "id": "17",
+      "text": "Urządzenia techniczne objęte dozorem technicznym to",
+      "options": [
+        "przenośniki kabinowe i krzesełkowe",
+        "układnice magazynowe oraz urządzenia dla osób niepełnosprawnych",
+        "wyciągi towarowe i wyciągi statków",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są poprawne"
+    },
+    {
+      "id": "18",
+      "text": "Niebezpieczne uszkodzenie urządzenia technicznego to",
+      "options": [
+        "każda usterka UTB",
+        "nieprzewidziane uszkodzenie, w wyniku którego urządzenie nadaje się do częściowej eksploatacji",
+        "nieprzewidziane uszkodzenie, w wyniku którego nadaje się do eksploatacji tylko przy obniżonych parametrach",
+        "nieprzewidziane uszkodzenie, w wyniku którego urządzenie nie nadaje się do eksploatacji lub jego dalsza eksploatacja stanowi zagrożenie"
+      ],
+      "correctAnswer": "nieprzewidziane uszkodzenie, w wyniku którego urządzenie nie nadaje się do eksploatacji lub jego dalsza eksploatacja stanowi zagrożenie"
+    },
+    {
+      "id": "19",
+      "text": "Nieszczęśliwy wypadek to",
+      "options": [
+        "nagłe zdarzenie, które spowodowało obrażenia ciała lub śmierć",
+        "nagłe zdarzenie, które spowodowało przerwę w pracy",
+        "nagłe zdarzenie, które skutkuje wyłączeniem urządzenia technicznego z eksploatacji",
+        "każda usterka UTB spowodowana przyczyna losowa"
+      ],
+      "correctAnswer": "nagłe zdarzenie, które spowodowało obrażenia ciała lub śmierć"
+    },
+    {
+      "id": "20",
+      "text": "Podnoszenie i przenoszenie osób przez urządzenie techniczne przeznaczone wyłącznie do transportu ładunków wymaga",
+      "options": [
+        "uzgodnienia z organem właściwej jednostki dozoru technicznego",
+        "uzgodnienia z przełożonym",
+        "uzgodnienia ze służba BHP",
+        "jest możliwe przy zachowaniu szczególnej ostrożności i pod nadzorem inspektora"
+      ],
+      "correctAnswer": "uzgodnienia z organem właściwej jednostki dozoru technicznego"
+    },
+    {
+      "id": "21",
+      "text": "Odpowiedzialnym za zapewnienie właściwej obsługi i konserwacji urządzenia technicznego jest",
+      "options": [
+        "eksploatujący urządzenie techniczne",
+        "organ właściwej jednostki dozoru technicznego",
+        "Państwowa Inspekcja Pracy",
+        "inspektor UDT"
+      ],
+      "correctAnswer": "eksploatujący urządzenie techniczne"
+    },
+    {
+      "id": "22",
+      "text": "Wymagane przepisami prawa przeglądy konserwacyjne wykonuje",
+      "options": [
+        "osoba posiadająca zaświadczenie kwalifikacyjne do konserwacji",
+        "pracownik autoryzowanego serwisu producenta urządzenia (pod warunkiem posiadania zaświadczeń kwalifikacyjnych do konserwacji)",
+        "zakładowe służby utrzymania ruchu",
+        "odpowiedz a i b jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz a i b jest prawidłowa"
+    },
+    {
+      "id": "23",
+      "text": "Dziennik konserwacji urządzenia technicznego prowadzi",
+      "options": [
+        "inspektor UDT w księdze rewizyjnej urządzenia",
+        "uprawniony operator",
+        "wyznaczony pracownik eksploatującego",
+        "konserwator urządzenia technicznego"
+      ],
+      "correctAnswer": "konserwator urządzenia technicznego"
+    },
+    {
+      "id": "24",
+      "text": "Badania odbiorcze przeprowadza się dla urządzeń technicznych",
+      "options": [
+        "w terminach zgodnych z zapisami rozporządzenia w sprawie warunków technicznych dozoru technicznego",
+        "przed wydaniem pierwszej decyzji zezwalającej na eksploatacje",
+        "po naprawie urządzenia technicznego",
+        "po każdej zmianie eksploatującego"
+      ],
+      "correctAnswer": "przed wydaniem pierwszej decyzji zezwalającej na eksploatacje"
+    },
+    {
+      "id": "25",
+      "text": "Badania okresowe przeprowadza się dla urządzeń technicznych objętych dozorem",
+      "options": [
+        "ograniczonym",
+        "pełnym",
+        "uproszczonym",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": ""
+    },
+    {
+      "id": "26",
+      "text": "Nieobecność konserwującego na badaniu urządzenia technicznego wymaga min.",
+      "options": [
+        "wcześniejszego uzgodnienia tego faktu z organem właściwej jednostki dozoru technicznego",
+        "przedstawienia pisemnego usprawiedliwienia nieobecności konserwatora",
+        "przedstawienia zwolnienia lekarskiego potwierdzającego niezdolność konserwatora do pracy",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wcześniejszego uzgodnienia tego faktu z organem właściwej jednostki dozoru technicznego"
+    },
+    {
+      "id": "27",
+      "text": "Kandydat na obsługującego urządzenie techniczne musi",
+      "options": [
+        "mieć ukończone 18 lat",
+        "posiadać przynajmniej wykształcenie zawodowe",
+        "posiadać przynajmniej 1 rok stażu pracy",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "mieć ukończone 18 lat"
+    },
+    {
+      "id": "28",
+      "text": "Obsługujący urządzenie techniczne ma obowiąże przerwać prace gdy",
+      "options": [
+        "jego stan fizyczny i psychiczny w dniu pracy jest nieodpowiedni",
+        "stwierdzi, ze dalsza praca urządzeniem stwarza zagrożenie",
+        "urządzenie jest niesprawne",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "29",
+      "text": "Terminy przeglądów konserwacyjnych urządzenia mogą być określone",
+      "options": [
+        "w instrukcji eksploatacji urządzenia",
+        "w ustawie o dozorze technicznym",
+        "w rozporządzeniu określającym warunki techniczne dozoru technicznego",
+        "odpowiedz a i c jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz a i c jest prawidłowa"
+    },
+    {
+      "id": "30",
+      "text": "Terminy badan okresowych i doraźnych kontrolnych UTB określone są",
+      "options": [
+        "w ustawie o dozorze technicznym",
+        "w rozporządzeniu określającym warunki techniczne dozoru technicznego",
+        "w dokumentacji konstrukcyjnej urządzenia",
+        "w dzienniku konserwacji"
+      ],
+      "correctAnswer": "w rozporządzeniu określającym warunki techniczne dozoru technicznego"
+    },
+    {
+      "id": "238",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna masę ładunku jaką można bezpiecznie podnieść na wysokość 4000 mm, pobierając od strony A",
+      "image": "/images/q238widlaki.jpg",
+      "options": ["2900 kg", "3600 kg", "3400 kg", "3200 kg"],
+      "correctAnswer": "3400 kg"
+    },
+    {
+      "id": "239",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna masę ładunku, pobranego od strony B",
+      "image": "/images/q239widlaki.jpg",
+      "options": ["1000 kg", "1200 kg", "1500 kg", "2300 kg"],
+      "correctAnswer": "1500 kg"
+    },
+    {
+      "id": "240",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna masę ładunku, pobranego od strony A",
+      "image": "/images/q240widlaki.jpg",
+      "options": ["1600 kg", "1900 kg", "2300 kg", "2500 kg"],
+      "correctAnswer": "2300 kg"
+    },
+    {
+      "id": "241",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna masę ładunku, pobranego od strony A",
+      "image": "/images/q241widlaki.jpg",
+      "options": ["400 kg", "600 kg", "1500 kg", "2000 kg"],
+      "correctAnswer": "2000 kg"
+    },
+    {
+      "id": "242",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna masę ładunku, pobranego od strony B",
+      "image": "/images/q242widlaki.jpg",
+      "options": ["400 kg", "600 kg", "1500 kg", "2000 kg"],
+      "correctAnswer": "1500 kg"
+    },
+    {
+      "id": "243",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna masę ładunku, pobranego od strony A",
+      "image": "/images/q243widlaki.jpg",
+      "options": ["1400 kg", "1255 kg", "1040 kg", "840 kg"],
+      "correctAnswer": "1400 kg"
+    },
+    {
+      "id": "244",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna masę ładunku, pobranego od strony B",
+      "image": "/images/q244widlaki.jpg",
+      "options": ["1400 kg", "1255 kg", "1040 kg", "840 kg"],
+      "correctAnswer": "1040 kg"
+    },
+    {
+      "id": "245",
+      "text": "Świecąca się kontrolka ciśnienia oleju może świadczy o",
+      "image": "/images/q245widlaki.jpg",
+      "options": [
+        "zbyt niskim poziomie płyny w układzie hamulcowym",
+        "podwyższonej temperaturze silnika",
+        "zbyt niskim ciśnieniu oleju",
+        "odpowiedz a i c jest prawidłowa"
+      ],
+      "correctAnswer": "zbyt niskim ciśnieniu oleju"
     }
   ]
 }
