@@ -20,32 +20,36 @@ function Copyright() {
 const Footer = () => {
   return (
     <Box
+      component="footer"
       sx={{
-        display: "flex",
-        flexDirection: "column",
-        minHeight: "50vh",
+        py: 0,
+        px: 2,
+        mt: "auto",
+        position: "fixed",
+        left: 0,
+        bottom: 0,
+        width: "100%",
+        backgroundColor: (theme) =>
+          theme.palette.mode === "light"
+            ? theme.palette.grey[200]
+            : theme.palette.grey[800],
       }}
     >
-      <Box
-        component="footer"
+      <Container
+        maxWidth="sm"
         sx={{
-          py: 3,
-          px: 2,
-          mt: "auto",
-          position: "fixed",
-          left: 0,
-          bottom: 0,
-          width: "100%",
-          backgroundColor: (theme) =>
-            theme.palette.mode === "light"
-              ? theme.palette.grey[200]
-              : theme.palette.grey[800],
+          display: "flex",
+          gap: "5px",
         }}
       >
-        <Container maxWidth="sm">
-          <Copyright />
-        </Container>
-      </Box>
+        <Copyright />
+        <Typography variant="body3" color="text.secondary">
+          {"Zauważone błędy ślij na "}
+          <Link color="inherit" href="mailto:sky@wir.pl">
+            sky@wir.pl
+          </Link>
+        </Typography>
+      </Container>
     </Box>
   );
 };
