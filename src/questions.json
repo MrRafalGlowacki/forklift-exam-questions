@@ -273,7 +273,7 @@
         "uproszczonym",
         "wszystkie odpowiedzi są poprawne"
       ],
-      "correctAnswer": ""
+      "correctAnswer": "pełnym"
     },
     {
       "id": "26",
@@ -329,6 +329,2192 @@
         "w dzienniku konserwacji"
       ],
       "correctAnswer": "w rozporządzeniu określającym warunki techniczne dozoru technicznego"
+    },
+    {
+      "id": "31",
+      "text": "Obowiązkiem obsługującego urządzenie techniczne jest",
+      "options": [
+        "przestrzeganie instrukcji eksploatacji w zakresie obsługi urządzenia",
+        "przestrzeganie instrukcji eksploatacji w zakresie konserwacji urządzenia",
+        "wykonywanie napraw urządzenia",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "przestrzeganie instrukcji eksploatacji w zakresie obsługi urządzenia"
+    },
+    {
+      "id": "32",
+      "text": "Urządzenie techniczne można eksploatować na podstawie",
+      "options": [
+        "aktualnej naklejki organu właściwej jednostki dozoru technicznego określającej termin kolejnego badania",
+        "aktualnego wpisu konserwatora urządzenia w dzienniku konserwacji",
+        "ważnej decyzji zezwalającej na eksploatacje wydanej przez organ właściwej jednostki dozoru technicznego",
+        "pozytywnego protokołu z badania okresowego lub odbiorczego"
+      ],
+      "correctAnswer": "ważnej decyzji zezwalającej na eksploatacje wydanej przez organ właściwej jednostki dozoru technicznego"
+    },
+    {
+      "id": "33",
+      "text": "Po wykonanych czynnościach przy urządzeniu technicznym inspektor sporządza",
+      "options": [
+        "instrukcje eksploatacji urządzenia",
+        "decyzje i protokół z wykonanych czynności",
+        "deklaracje zgodności CE",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "decyzje i protokół z wykonanych czynności"
+    },
+    {
+      "id": "34",
+      "text": "Naprawę i modernizacje urządzenia technicznego wykonuje",
+      "options": [
+        "operator w ramach posiadanych umiejętności",
+        "konserwator",
+        "zakład uprawniony",
+        "eksploatujący"
+      ],
+      "correctAnswer": "zakład uprawniony"
+    },
+    {
+      "id": "35",
+      "text": "Bezpośrednio odpowiedzialnym za bezpieczna eksploatację urządzenia technicznego jest",
+      "options": [
+        "obsługujący urządzenie",
+        "producent urządzenia",
+        "zakładowy inspektor BHP",
+        "inspektor UDT"
+      ],
+      "correctAnswer": "obsługujący urządzenie"
+    },
+    {
+      "id": "36",
+      "text": "informacje dotyczące zasad bezpiecznej obsługi urządzenia są zawarte w",
+      "options": [
+        "instrukcji eksploatacji urządzenia",
+        "ustawie o dozorze technicznym",
+        "dzienniku konserwacji",
+        "protokole z badania wykonanego przez inspektora UDT"
+      ],
+      "correctAnswer": "instrukcji eksploatacji urządzenia"
+    },
+    {
+      "id": "37",
+      "text": "W ramach czynności przed rozpoczęciem pracy Obsługujący",
+      "options": [
+        "sprawdza stan techniczny urządzenia poprzez oględziny",
+        "wykonuje próby statyczna i dynamiczna",
+        "wykonuje próby ruchowe urządzenia",
+        "odpowiedz a i c jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz a i c jest prawidłowa"
+    },
+    {
+      "id": "38",
+      "text": "Zaświadczenia kwalifikacyjne do obsługi urządzeń technicznych podlegających dozorowi technicznemu wydaje",
+      "options": [
+        "firma szkoleniowa po pozytywnym wyniku egzaminu sprawdzającego",
+        "inspektor BHP na podstawie zaświadczenia o ukończeniu kursu",
+        "pracodawca na podstawie zdanego egzaminu ",
+        "organ właściwej jednostki dozoru technicznego"
+      ],
+      "correctAnswer": "organ właściwej jednostki dozoru technicznego"
+    },
+    {
+      "id": "39",
+      "text": "Przeciążanie UTB w trakcie pracy",
+      "options": [
+        "jest zabronione",
+        "jest dopuszczalne",
+        "jest dopuszczalne ale tylko do 125% udźwigu nominalnego",
+        "jest dopuszczalne ale tylko do 110% udźwigu nominalnego"
+      ],
+      "correctAnswer": "jest zabronione"
+    },
+    {
+      "id": "40",
+      "text": "Badania doraźne eksploatacyjne wykonuje się m.in.",
+      "options": [
+        "po każdym usunięciu usterki przez konserwatora",
+        "po wymianie cięgien nośnych",
+        "raz na rok",
+        "po wypadku na urządzeniu"
+      ],
+      "correctAnswer": "po wymianie cięgien nośnych"
+    },
+    {
+      "id": "41",
+      "text": "Obowiązki obsługującego określone są",
+      "options": [
+        "w instrukcji eksploatacji urządzenia",
+        "w dzienniku konserwacji",
+        "w ustawie o dozorze technicznym",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "w instrukcji eksploatacji urządzenia"
+    },
+    {
+      "id": "42",
+      "text": "Badania okresowe urządzenia technicznego są wykonywane przez",
+      "options": [
+        "konserwatora posiadającego odpowiednie zaświadczenie kwalifikacyjne",
+        "inspektora organu właściwej jednostki dozoru technicznego",
+        "pracownika serwisu producenta",
+        "operatora"
+      ],
+      "correctAnswer": "inspektora organu właściwej jednostki dozoru technicznego"
+    },
+    {
+      "id": "43",
+      "text": "Jednostką dozoru technicznego jest",
+      "options": [
+        "Urząd Dozoru Technicznego",
+        "Wojskowy Dozór techniczny",
+        "Transportowy dozór Techniczny",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "44",
+      "text": "Zaświadczenia kwalifikacyjne uprawniające do obsługi urządzeń technicznych ważne są na terenie",
+      "options": [
+        "Rzeczypospolitej Polskiej",
+        "Unii Europejskiej",
+        "nie maja określonego obszaru ważności",
+        "krajów strefy Schengen"
+      ],
+      "correctAnswer": "Rzeczypospolitej Polskiej"
+    },
+    {
+      "id": "45",
+      "text": "Obowiązek stosowania środków ochrony indywidualnej przez operatorów urządzeń technicznych wynika z",
+      "options": [
+        "instrukcji eksploatacji producenta",
+        "przepisów BHP",
+        "przepisów wewnątrzzakładowych",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są poprawne"
+    },
+    {
+      "id": "46",
+      "text": "Zgodnie z rozporządzeniem Rady Ministrów w sprawie rodzajów urządzeń technicznych podlegających dozorowi technicznemu przepisom dozoru technicznego podlegają",
+      "options": [
+        "dźwigi, żurawie, suwnice, wciągarki i wciągniki",
+        "wózki jezdniowe podnośnikowe z mechanicznym napędem podnoszenia, podesty ruchome",
+        "dźwignice linotorowe, przenośniki kabinowe i krzesełkowe",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są poprawne"
+    },
+    {
+      "id": "47",
+      "text": "Instrukcja eksploatacji może nie zawierać",
+      "options": [
+        "informacji o terminach i zakresie przeglądów konserwacyjnych UTB",
+        "podstawowych parametrów i przeznaczenia UTB",
+        "terminów badan technicznych wykonywanych przez jednostkę inspekcyjna",
+        "informacji o sposobie obsługi urządzenia"
+      ],
+      "correctAnswer": "terminów badan technicznych wykonywanych przez jednostkę inspekcyjna"
+    },
+    {
+      "id": "48",
+      "text": "Księga rewizyjna urządzenia musi zawierać",
+      "options": [
+        "zbiór protokołów z badan wykonywanych przez jednostkę inspekcyjna",
+        "dokument, w którym odnotowywane są przeglądy konserwacyjne",
+        "treść aktualnych aktów prawnych",
+        "wykaz uprawnionych operatorów"
+      ],
+      "correctAnswer": "zbiór protokołów z badan wykonywanych przez jednostkę inspekcyjna"
+    },
+    {
+      "id": "49",
+      "text": "Decyzja wydana przez UDT",
+      "options": [
+        "nie podlega odwołaniu",
+        "może zostać zmieniona przez inspektora PIP",
+        "podlega możliwości odwołania się przez eksploatującego",
+        "każda odpowiedz jest niepoprawna"
+      ],
+      "correctAnswer": "podlega możliwości odwołania się przez eksploatującego"
+    },
+    {
+      "id": "50",
+      "text": "Do egzaminu sprawdzającego kwalifikacje może przystąpić osoba, która",
+      "options": [
+        "złożyła wniosek o sprawdzenie kwalifikacji",
+        "ukończyła 18 lat",
+        "nie ma przeciwwskazań zdrowotnych do obsługi urządzeń technicznych",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są poprawne"
+    },
+    {
+      "id": "51",
+      "text": "Po zakończonym badaniu technicznym z wynikiem pozytywnym inspektor UDT",
+      "options": [
+        "przedłuża ważność świadectwa kwalifikacji operatora",
+        "oznakowuje urządzenie naklejka, która jest zezwoleniem na użytkowanie urządzenia",
+        "informuje użytkownika pisemnie w dzienniku konserwacji, ze wyraża zgodę na eksploatacje urządzenia",
+        "sporządza protokół z wykonanych czynności i wydaje decyzje administracyjna zezwalająca na eksploatacje"
+      ],
+      "correctAnswer": "sporządza protokół z wykonanych czynności i wydaje decyzje administracyjna zezwalająca na eksploatacje"
+    },
+    {
+      "id": "52",
+      "text": "Zaświadczenia kwalifikacyjne",
+      "options": [
+        "są ważne bezterminowo",
+        "są terminowe z okresem ważności uzależnionym od ilości uzyskanych punktów na egzaminie",
+        "są terminowe z okresem ważności zgodnym z zapisami rozporządzenia w sprawie trybu sprawdzenia kwalifikacji",
+        "są ważne przez okres 15 lat"
+      ],
+      "correctAnswer": "są terminowe z okresem ważności zgodnym z zapisami rozporządzenia w sprawie trybu sprawdzenia kwalifikacji"
+    },
+    {
+      "id": "53",
+      "text": "Dokonujący przeróbek urządzenia technicznego bez uzgodnienia z organem właściwej jednostki dozoru technicznego",
+      "options": [
+        "podlega karze grzywny lub ograniczenia wolności",
+        "podlega ukaraniu mandatem karnym",
+        "nie podlega karze",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "podlega karze grzywny lub ograniczenia wolności"
+    },
+    {
+      "id": "54",
+      "text": "Kto dopuszcza do eksploatacji urządzenie techniczne bez ważnej decyzji zezwalającej na eksploatację",
+      "options": [
+        "podlega karze grzywny lub ograniczenia wolności",
+        "nie podlega karze, jeżeli nie dojdzie do wypadku",
+        "podlega wyłącznie karze grzywny",
+        "podlega karze więzienia"
+      ],
+      "correctAnswer": "podlega karze grzywny lub ograniczenia wolności"
+    },
+    {
+      "id": "55",
+      "text": "Instrukcja eksploatacji to",
+      "options": [
+        "zbiór informacji niezbędnych do bezpiecznej eksploatacji urządzenia udostępniany przez producenta",
+        "zbiór zaleceń wydawanych przez Urząd Dozoru Technicznego",
+        "instrukcja, która musi stworzyć użytkownik urządzenia",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "zbiór informacji niezbędnych do bezpiecznej eksploatacji urządzenia udostępniany przez producenta"
+    },
+    {
+      "id": "56",
+      "text": "Zaświadczeń kwalifikacyjnych do obsługi nie wymaga się",
+      "options": [
+        "jeżeli urządzenie jest obsługiwane przez jego właściciela",
+        "jeżeli wszystkie mechanizmy urządzenia maja napęd ręczny",
+        "jeśli urządzenie jest wykorzystywane do celów prywatnych, nie zarobkowych",
+        "od osób po 60 roku życia"
+      ],
+      "correctAnswer": "jeżeli wszystkie mechanizmy urządzenia maja napęd ręczny"
+    },
+    {
+      "id": "57",
+      "text": "Osoba posiadająca Zaświadczenia kwalifikacyjne może obsługiwać",
+      "options": [
+        "tylko urządzenia wymienione w zakresie uprawnienia",
+        "wszystkie urządzenia podlegające dozorowi technicznemu",
+        "inne urządzenia podlegające dozorowi technicznemu za zgoda pracodawcy",
+        "wszystkie UTB o udźwigu do 3,2 t"
+      ],
+      "correctAnswer": "tylko urządzenia wymienione w zakresie uprawnienia"
+    },
+    {
+      "id": "58",
+      "text": "Obowiązkiem obsługującego urządzenie techniczne jest",
+      "options": [
+        "odmówić obsługi urządzenia, jeżeli wygasła decyzja zezwalająca na eksploatacje tego urządzenia",
+        "zawsze stosować się do poleceń przełożonego nakazujących eksploatacje urządzenia",
+        "stosować się do zapisów zawartych w instrukcji eksploatacji",
+        "odpowiedz a i c jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz a i c jest prawidłowa"
+    },
+    {
+      "id": "59",
+      "text": "Zaświadczenie kwalifikacyjne do obsługi urządzeń technicznych są",
+      "options": [
+        "ważne na terenie Unii Europejskiej",
+        "ważne z dowodem tożsamości",
+        "bezterminowe",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "ważne z dowodem tożsamości"
+    },
+    {
+      "id": "60",
+      "text": "Obsługujący który jest świadkiem wypadku ma obowiązek",
+      "options": [
+        "udzielić pomocy ofierze (lub ofiarom) wypadku",
+        "zabezpieczyć miejsce zdarzenia",
+        "powiadomić przełożonego",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są poprawne"
+    },
+    {
+      "id": "61",
+      "text": "Obsługującemu nie wolno",
+      "options": [
+        "podnosić ładunków, których masy nie potrafi określić",
+        "kontrolować stanu technicznego urządzenia",
+        "stosować się do zapisów zawartych w instrukcji eksploatacji",
+        "dokonywać oględzin zewnętrznych urządzenia"
+      ],
+      "correctAnswer": "podnosić ładunków, których masy nie potrafi określić"
+    },
+    {
+      "id": "62",
+      "text": "Formami dozoru technicznego są",
+      "options": [
+        "dozór pełny, dozór uproszczony, dozór ograniczony",
+        "badanie odbiorcze, badanie okresowe i badanie doraźne",
+        "UDT, TDT, WDT",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "dozór pełny, dozór uproszczony, dozór ograniczony"
+    },
+    {
+      "id": "63",
+      "text": "Podnoszenie osób urządzeniami, które zostały zaprojektowane i wykonane wyłącznie do podnoszenia ładunków",
+      "options": [
+        "jest dopuszczalne, po zapewnieniu odpowiedniego poziomu bezpieczeństwa",
+        "jest zabronione",
+        "jest dopuszczalne, po uzgodnieniu z organem właściwej jednostki dozoru technicznego szczegółowych warunków eksploatacji",
+        "jest dopuszczalne jednorazowo na pisemne polecenie przełożonego"
+      ],
+      "correctAnswer": "jest dopuszczalne, po uzgodnieniu z organem właściwej jednostki dozoru technicznego szczegółowych warunków eksploatacji"
+    },
+    {
+      "id": "64",
+      "text": "Podnoszenie ładunków za pomocą dwóch lub więcej UTB",
+      "options": [
+        "jest dopuszczalne, pod warunkiem opracowania przez eksploatującego szczegółowych warunków eksploatacji, opisujących czynności organizacyjno-techniczne minimalizujące ryzyko",
+        "jest zawsze dopuszczalne jeżeli masa ładunku nie przekracza sumy udźwigów wykorzystywanych urządzeń",
+        "jest dopuszczalne jeżeli masa ładunku nie przekracza połowy udźwigu każdego z wykorzystanych urządzeń",
+        "nie jest nigdy dopuszczalna"
+      ],
+      "correctAnswer": "jest dopuszczalne, pod warunkiem opracowania przez eksploatującego szczegółowych warunków eksploatacji, opisujących czynności organizacyjno-techniczne minimalizujące ryzyko"
+    },
+    {
+      "id": "65",
+      "text": "Przebywanie osób pod ładunkiem przenoszonym jest",
+      "options": [
+        "zawsze niedozwolone",
+        "dozwolone dla osób kontrolującej spód ładunku;",
+        "dozwolone jeżeli współczynnik bezpieczeństwa cięgien wynosi nie mniej niż 5",
+        "dozwolone jeżeli współczynnik bezpieczeństwa cięgien wynosi nie mniej niż 7"
+      ],
+      "correctAnswer": "zawsze niedozwolone"
+    },
+    {
+      "id": "66",
+      "text": "Przenoszenia ładunków nad osobami jest",
+      "options": [
+        "dozwolone pod warunkiem uzyskania pisemnego zezwolenia od osoby kierującej transportem",
+        "dozwolone, po zapewnieniu współczynników bezpieczeństwa dla cięgien i urządzeń chwytnych większych niż 10",
+        "dozwolone pod warunkiem powiadomienia osób i wyposażeniu ich w środki ochrony indywidualnej",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są niepoprawne"
+    },
+    {
+      "id": "67",
+      "text": "Zaświadczenia kwalifikacyjne do obsługi urządzeń technicznych podlegających dozorowi technicznemu wydaje",
+      "options": [
+        "właściciel urządzenia",
+        "UDT, TDT, WDT",
+        "PIP",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "UDT, TDT, WDT"
+    },
+    {
+      "id": "68",
+      "text": "Komisja egzaminacyjna powiadamia osobę zainteresowana o wyniku egzaminu",
+      "options": [
+        "w ciągu 7 dni po egzaminie w formie pisemnej",
+        "bezpośrednio po egzaminie",
+        "w ciągu 14 dni po egzaminie w formie elektronicznej",
+        "listem poleconym lub poczta elektroniczna po upływie 30 dni roboczych od daty egzaminu"
+      ],
+      "correctAnswer": "bezpośrednio po egzaminie"
+    },
+    {
+      "id": "69",
+      "text": "Dziennik konserwacji powinien być prowadzony",
+      "options": [
+        "tylko w formie papierowej",
+        "w formie elektronicznej lub papierowej",
+        "tylko w formie elektronicznej",
+        "przez obsługującego"
+      ],
+      "correctAnswer": "w formie elektronicznej lub papierowej"
+    },
+    {
+      "id": "70",
+      "text": "Instrukcja stanowiskowa",
+      "options": [
+        "jest zawsze dostarczana wraz z instrukcja obsługi przez producenta urządzenia",
+        "stanowi niepisany zbiór zwyczajów przyjętych w zakładzie pracy",
+        "jest wydawana przez pracodawcę i zawiera szczegółowe wskazówki dotyczące bhp na stanowisku pracy",
+        "nie dotyczy operatorów urządzeń mobilnych"
+      ],
+      "correctAnswer": "jest wydawana przez pracodawcę i zawiera szczegółowe wskazówki dotyczące bhp na stanowisku pracy"
+    },
+    {
+      "id": "71",
+      "text": "Po upływie terminu ważności zaświadczenia kwalifikacyjnego do obsługi urządzenia Obsługujący",
+      "options": [
+        "może obsługiwać UTB o ile kontynuuje prace u tego samego pracodawcy",
+        "może obsługiwać UTB o ile złoży wniosek o wydanie kolejnego zaświadczenia",
+        "może obsługiwać UTB dopiero po uzyskaniu nowego zaświadczenia kwalifikacyjnego",
+        "składa wniosek o przedłużenie terminu ważności zaświadczenia kwalifikacyjnego"
+      ],
+      "correctAnswer": "może obsługiwać UTB dopiero po uzyskaniu nowego zaświadczenia kwalifikacyjnego"
+    },
+    {
+      "id": "72",
+      "text": "Przedłużenie ważności Zaświadczenie kwalifikacyjnego następuje",
+      "options": [
+        "na pisemny wniosek obsługującego",
+        "automatycznie po upływie terminu ważności zaświadczenia",
+        "na pisemne zgłoszenie pracodawcy obsługującego",
+        "po wcześniejszym zgłoszeniu telefonicznym"
+      ],
+      "correctAnswer": "na pisemny wniosek obsługującego"
+    },
+    {
+      "id": "73",
+      "text": "Udźwig UTB to parametr urządzenia Bezpośrednio związany z",
+      "options": [
+        "maksymalna wysokością podnoszonego ładunku",
+        "maksymalna objętością podnoszonego ładunku",
+        "maksymalna masa podnoszonego ładunku",
+        "iloczynem masy i objętości podnoszonego ładunku"
+      ],
+      "correctAnswer": "maksymalna masa podnoszonego ładunku"
+    },
+    {
+      "id": "74",
+      "text": "Masą netto 1000 l wody wynosi ok",
+      "options": ["800 kg", "900 kg", "1000 kg", "1100 kg"],
+      "correctAnswer": "1000 kg"
+    },
+    {
+      "id": "75",
+      "text": "Masą ładunku składającego się z 40 opakowań po 25 kg każdy wynosi",
+      "options": ["800 kg", "1000 kg", "1100 kg", "900 kg"],
+      "correctAnswer": "1000 kg"
+    },
+    {
+      "id": "76",
+      "text": "Masą 60 kartonów po 20 kg każdy wynosi",
+      "options": ["800 kg", "1000 kg", "1100 kg", "1200 kg"],
+      "correctAnswer": "1200 kg"
+    },
+    {
+      "id": "77",
+      "text": "Masę podnoszonego ładunku można określić na podstawie",
+      "options": [
+        "zawieszki zbiorczej znajdującej się na transportowanym ładunku",
+        "przeliczając uwzględniając ciężar właściwy i objętość",
+        "dokumentacji przewozowej i magazynowej",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "78",
+      "text": "Informacja dotycząca udźwigu urządzenia może być zawarta",
+      "options": [
+        "w instrukcji eksploatacji",
+        "na tabliczce znamionowej",
+        "na urządzeniu technicznym",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "79",
+      "text": "Prawidłowe określenie jednostki udźwigu to",
+      "options": ["kg", "Pa", "mth", "mm"],
+      "correctAnswer": "kg"
+    },
+    {
+      "id": "80",
+      "text": "Które z elementów nie wchodzą w skład układu hydraulicznego wózka jezdniowego podnośnikowego?",
+      "options": [
+        "pompa, zamek hydrauliczny, filtr oleju",
+        "rozrusznik, potencjometr, silnik elektryczny",
+        "manometr, zawór zwrotny, odpowietrznik",
+        "wszystkie odpowiedzi są nieprawidłowe"
+      ],
+      "correctAnswer": "rozrusznik, potencjometr, silnik elektryczny"
+    },
+    {
+      "id": "81",
+      "text": "Zamek hydrauliczny zapewnia ochronę przed",
+      "options": [
+        "nadmiernym wzrostem ciśnienia w układzie hydraulicznym",
+        "skutkami pęknięcia przewodu hydraulicznego",
+        "nieautoryzowanym uruchomieniem urządzenia",
+        "dzieleniem strumienia na poszczególne obwody układu hydraulicznego"
+      ],
+      "correctAnswer": "skutkami pęknięcia przewodu hydraulicznego"
+    },
+    {
+      "id": "82",
+      "text": "Elementem przekształcającym ciśnienie oleju hydraulicznego w ruch mechaniczny jest",
+      "options": [
+        "pompa tłoczkowa",
+        "siłownik hydrauliczny",
+        "rozdzielacz hydrauliczny",
+        "zawór przelewowy"
+      ],
+      "correctAnswer": "siłownik hydrauliczny"
+    },
+    {
+      "id": "83",
+      "text": "Elementem wytwarzającym ciśnienie w układzie hydraulicznym wózka jezdniowego podnośnikowego jest",
+      "options": [
+        "silnik hydrauliczny",
+        "pompa hydrauliczna",
+        "kompresor",
+        "sprężarka"
+      ],
+      "correctAnswer": "pompa hydrauliczna"
+    },
+    {
+      "id": "84",
+      "text": "Zawór przelewowy instalowany w układzie hydraulicznym wózków jezdniowych podnośnikowych ma za zadanie",
+      "options": [
+        "utrzymanie stałego ciśnienia w układzie hydraulicznym",
+        "utrzymanie siłownika w stałej pozycji",
+        "zabezpieczenie układu podnoszenia przed opadaniem",
+        "zasilanie układu hydraulicznego"
+      ],
+      "correctAnswer": "utrzymanie stałego ciśnienia w układzie hydraulicznym"
+    },
+    {
+      "id": "85",
+      "text": "Bezpieczny sposób sprawdzenia działania zaworu przelewowego przeprowadza się",
+      "options": [
+        "z ładunkiem nominalnym na wysokości ok 1/3 wysokości podnoszenia",
+        "z włączonym silnikiem bez ładunku",
+        "wychylając i przytrzymując dźwignie mechanizmu aż do momentu uzyskania przez układ skrajnego położenia",
+        "odpowiedz b i c jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz b i c jest prawidłowa"
+    },
+    {
+      "id": "86",
+      "text": "Rozdzielacz hydrauliczny instalowany jest w układzie w celu",
+      "options": [
+        "dławienia ciśnienia w poszczególnych obwodach",
+        "zabezpieczenia układu przed nadmiernym wzrostem ciśnienia",
+        "skierowanie przepływu oleju hydraulicznego do poszczególnych obwodów",
+        "wszystkie odpowiedzi są nieprawidłowe"
+      ],
+      "correctAnswer": "skierowanie przepływu oleju hydraulicznego do poszczególnych obwodów"
+    },
+    {
+      "id": "87",
+      "text": "Elementem wykonawczym w układzie hydraulicznym wózka jezdniowego podnośnikowego jest",
+      "options": [
+        "siłownik mechanizmu podnoszenia",
+        "silnik hydrauliczny",
+        "siłownik mechanizmu przechyłu",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są poprawne"
+    },
+    {
+      "id": "88",
+      "text": "Elementem chroniącym układ hydrauliczny przed nadmiernym wzrostem ciśnienia jest",
+      "options": [
+        "zamek hydrauliczny",
+        "zawór dławiący",
+        "rozdzielacz hydrauliczny",
+        "zawór bezpieczeństwa"
+      ],
+      "correctAnswer": "zawór bezpieczeństwa"
+    },
+    {
+      "id": "89",
+      "text": "Zawór zwrotno-dławiący montowany w układzie podnoszenia wózka jezdniowego podnośnikowego ma na celu",
+      "options": [
+        "zmniejszenie ciśnienia oleju",
+        "zabezpieczenie pompy hydraulicznej przed uszkodzeniem",
+        "spowolnienie prędkości opuszczania podniesionego ładunku, podczas pęknięcia przewodu hydraulicznego",
+        "zablokowanie opuszczania siłownika podczas pęknięcia przewodu hydraulicznego"
+      ],
+      "correctAnswer": "spowolnienie prędkości opuszczania podniesionego ładunku, podczas pęknięcia przewodu hydraulicznego"
+    },
+    {
+      "id": "90",
+      "text": "Zawór bezpieczeństwa w układzie hydraulicznym wózka jezdniowego podnośnikowego",
+      "options": [
+        "utrzymuje nurnik siłownika podnoszenia w stałym położeniu",
+        "jest elementem ograniczającym udźwig",
+        "zabezpiecza pompę hydrauliczna przed uszkodzeniem",
+        "ogranicza prędkość opuszczania podniesionego ładunku, w przypadku pęknięcia węża hydraulicznego"
+      ],
+      "correctAnswer": "zabezpiecza pompę hydrauliczna przed uszkodzeniem"
+    },
+    {
+      "id": "91",
+      "text": "W przypadku wzrostu ciśnienia nadmiar oleju odprowadzany jest",
+      "options": [
+        "z powrotem do zbiornika oleju",
+        "na zewnątrz wózka",
+        "do innej sekcji rozdzielacza",
+        "do siłownika"
+      ],
+      "correctAnswer": "z powrotem do zbiornika oleju"
+    },
+    {
+      "id": "92",
+      "text": "Kryteria i warunki poprawnego wykonania prób układu hydraulicznego określa",
+      "options": [
+        "wytwórca urządzenia",
+        "konserwator",
+        "operator",
+        "inspektor UDT"
+      ],
+      "correctAnswer": "wytwórca urządzenia"
+    },
+    {
+      "id": "93",
+      "text": "Akumulatory w elektrycznym wózku podnośnikowym",
+      "options": [
+        "są źródłem zasilania układów",
+        "zapewniają stateczność wózka",
+        "decydują o prędkości ruchów roboczych",
+        "odpowiedz a i b jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz a i b jest prawidłowa"
+    },
+    {
+      "id": "94",
+      "text": "Parametry podane przez producenta na tabliczce znamionowej akumulatorów to",
+      "options": [
+        "napięcie znamionowe [V]",
+        "pojemność [Ah]",
+        "masa własna [kg]",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są poprawne"
+    },
+    {
+      "id": "95",
+      "text": "Wyłączni bezpieczeństwa STOP jest",
+      "options": [
+        "zabezpieczony przed przypadkowym zadziałaniem",
+        "umieszczony blisko operatora",
+        "koloru czerwonego",
+        "dpowiedz b i c jest prawidłowa"
+      ],
+      "correctAnswer": "dpowiedz b i c jest prawidłowa"
+    },
+    {
+      "id": "96",
+      "text": "Wyłącznik bezpieczeństwa STOP",
+      "options": [
+        "wyłącza działanie mechanizmów jazdy",
+        "wyłącza działanie mechanizmów podnoszenia",
+        "uruchamia sygnalizacje ostrzegawcza",
+        "odpowiedz a i b jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz a i b jest prawidłowa"
+    },
+    {
+      "id": "97",
+      "text": "Jakiego rodzaju ogumienie stosowane jest w wózkach jezdniowych podnośnikowych",
+      "options": [
+        "pełne",
+        "super elastyczne",
+        "pneumatyczne",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "98",
+      "text": "Kto decyduje o rodzaju i wielkości opon zastosowanych w wózku",
+      "options": [
+        "producent opon",
+        "konserwator",
+        "producent wózka",
+        "inspektor UDT"
+      ],
+      "correctAnswer": "producent wózka"
+    },
+    {
+      "id": "99",
+      "text": "Graniczne zużycie opon super elastycznych (w przypadku braku innych wytycznych) to",
+      "options": [
+        "minimalna wartość bieżnika 1,6 mm",
+        "zmniejszenie grubości opony o 25% lub do wskaźnika wyznaczającego graniczne zużycie",
+        "brak bieżnika",
+        "minimalna wartość bieżnika 2 mm"
+      ],
+      "correctAnswer": "zmniejszenie grubości opony o 25% lub do wskaźnika wyznaczającego graniczne zużycie"
+    },
+    {
+      "id": "100",
+      "text": "Jaki rodzaj zużycia wyklucza opony pełne z dalszej eksploatacji",
+      "options": [
+        "wszelkie przecięcia i rozwarstwienia gumy, uszkodzenia mechaniczne",
+        "brak bieżnika",
+        "zmniejszenie grubości opony poniżej wskaźnika wyznaczającego graniczne zużycie",
+        "odpowiedz a i c jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz a i c jest prawidłowa"
+    },
+    {
+      "id": "101",
+      "text": "Świecąca się kontrolka ciśnienia oleju może świadczyć o",
+      "image": "/images/q101widlaki.jpg",
+      "options": [
+        "niskim poziomie oleju",
+        "podwyższonej temperaturze silnika",
+        "zbyt niskim ciśnieniu oleju",
+        "odpowiedz a i c jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz a i c jest prawidłowa"
+    },
+    {
+      "id": "102",
+      "text": "Oznaczenie przedstawione na rysunku znajduje się na dźwigni",
+      "image": "/images/q102widlaki.jpg",
+      "options": [
+        "mechanizmu podnoszenia",
+        "mechanizmu przechyłu masztu",
+        "mechanizmu przesuwu wideł",
+        "mechanizmu przesuwu karetki"
+      ],
+      "correctAnswer": "mechanizmu podnoszenia"
+    },
+    {
+      "id": "103",
+      "text": "Widząc świecąca się kontrolkę operator",
+      "image": "/images/q103widlaki.jpg",
+      "options": [
+        "powinien sprawdzić, czy pasy są prawidłowo zapięte",
+        "może kontynuować prace",
+        "może kontynuować prace ze zmniejszona prędkością jazdy",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "powinien sprawdzić, czy pasy są prawidłowo zapięte"
+    },
+    {
+      "id": "104",
+      "text": "Dźwignia oznaczona poniższym piktogramem po wychyleniu przez operatora do przodu spowoduje",
+      "image": "/images/q104widlaki.jpg",
+      "options": [
+        "ruch wideł w dół",
+        "ruch wideł w górę",
+        "przechył masztu na siebie",
+        "przechył masztu od siebie"
+      ],
+      "correctAnswer": "ruch wideł w dół"
+    },
+    {
+      "id": "105",
+      "text": "Dźwignia oznaczona poniższym piktogramem po wychyleniu przez operatora spowoduje",
+      "image": "/images/q105widlaki.jpg",
+      "options": [
+        "ruch wideł w dół",
+        "ruch wideł w górę",
+        "ruch mechanizmu przechyłu masztu",
+        "ruch mechanizmu przesuwu karetki"
+      ],
+      "correctAnswer": "ruch mechanizmu przechyłu masztu"
+    },
+    {
+      "id": "106",
+      "text": "Wózki jezdniowe podnośnikowe czołowe z fotelem dla operatora muszą być wyposażone w",
+      "options": [
+        "hamulec zasadniczy",
+        "hamulec postojowy",
+        "mechanizm ryglujący koła jezdne",
+        "odpowiedz a i b jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz a i b jest prawidłowa"
+    },
+    {
+      "id": "107",
+      "text": "Hamowanie jazdy wózka prowadzonego może być realizowane przez",
+      "options": [
+        "pedał hamulca nożnego",
+        "zwolnienie nacisku na dźwignie sterująca jazdę wózka",
+        "wychylenie dyszla prowadzącego w skrajne górne i dolne położenie",
+        "odpowiedz b i c jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz b i c jest prawidłowa"
+    },
+    {
+      "id": "108",
+      "text": "W skład układu mechanizmu podnoszenia wchodzi",
+      "options": [
+        "siłowniki układu podnoszenia",
+        "łańcuchy nośne",
+        "karetka",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "109",
+      "text": "Wózki jezdniowe podnośnikowe czołowe z fotelem dla operatora mogą być wyposażone w maszt typu",
+      "options": [
+        "duplex",
+        "triplex",
+        "maszt z wolnym skokiem",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "110",
+      "text": "Jakie elementy bezpieczeństwa chronią operatora w przypadku utraty stateczności wózka podnośnikowego czołowego?",
+      "options": [
+        "łącznik STOP",
+        "kabina wózka, pas bezpieczeństwa",
+        "podpory",
+        "przeciwwaga"
+      ],
+      "correctAnswer": "kabina wózka, pas bezpieczeństwa"
+    },
+    {
+      "id": "111",
+      "text": "Jakie elementy maja wpływ na stateczność wózka podnośnikowego czołowego ?",
+      "options": [
+        "kabina wózka, pas bezpieczeństwa",
+        "łącznik STOP",
+        "stan zużycia opon",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "stan zużycia opon"
+    },
+    {
+      "id": "112",
+      "text": "Do zasilania wózków podnośnikowych spalinowych stosowane są butle gazowe",
+      "options": [
+        "z kołnierzem",
+        "koloru czerwonego",
+        "wykorzystywane do zasilania kuchenek gazowych",
+        "odpowiedz a i b jest prawidłowa"
+      ],
+      "correctAnswer": "z kołnierzem"
+    },
+    {
+      "id": "113",
+      "text": "W wózkach podnośnikowych łańcuch mechanizmu podnoszenia jest",
+      "options": [
+        "cięgnem nośnym",
+        "cięgnem przeciwślizgowym",
+        "cięgnem napędowym",
+        "żadnym z powyższych"
+      ],
+      "correctAnswer": "cięgnem nośnym"
+    },
+    {
+      "id": "114",
+      "text": "Oznaczenie na poniższym rysunku przedstawia",
+      "image": "/images/q114widlaki.jpg",
+      "options": [
+        "lampkę kontrolna świec żarowych",
+        "lampkę kontrolna ładowania",
+        "lampkę kontrolna ciśnienia oleju hydraulicznego",
+        "lampkę kontrolna oświetlenia"
+      ],
+      "correctAnswer": "lampkę kontrolna świec żarowych"
+    },
+    {
+      "id": "115",
+      "text": "Oznaczenie na poniższym rysunku przedstawia",
+      "image": "/images/q115widlaki.jpg",
+      "options": [
+        "lampkę sygnalizująca błędne podłączenie biegunów akumulatora (dotyczy tylko wózków akumulatorowych)",
+        "lampkę sprawności akumulatora, która dotyczy tylko wózków akumulatorowych",
+        "lampkę kontrolna ładowania akumulatora",
+        "odpowiedz a i b jest prawidłowa"
+      ],
+      "correctAnswer": "lampkę kontrolna ładowania akumulatora"
+    },
+    {
+      "id": "116",
+      "text": "Oznaczenie na poniższym rysunku przedstawia",
+      "image": "/images/q116widlaki.jpg",
+      "options": [
+        "wskazania ogranicznika udźwigu wózka",
+        "lampkę kontrolna temperatury cieczy chłodzącej",
+        "lampkę kontrolna poziomu paliwa",
+        "lampkę kontrolna stopnia naładowania akumulatora"
+      ],
+      "correctAnswer": "lampkę kontrolna temperatury cieczy chłodzącej"
+    },
+    {
+      "id": "117",
+      "text": "Oznaczenie na poniższym rysunku przedstawia",
+      "image": "/images/q117widlaki.jpg",
+      "options": [
+        "lampkę kontrolną - włączenia hamulca postojowego",
+        "lampkę kontrolną - awaria silnika",
+        "lampkę kontrolną - przeciążenie",
+        "lampkę kontrolną - nadmierna prędkość obrotowa silnika"
+      ],
+      "correctAnswer": "lampkę kontrolną - włączenia hamulca postojowego"
+    },
+    {
+      "id": "118",
+      "text": "Zapalona lub migająca lampka kontrolna",
+      "image": "/images/q118widlaki.jpg",
+      "options": [
+        "oznacza przekroczenie okresu serwisowego lub awarie urządzenia",
+        "oznacza konieczność regulacji naciągu cięgien nośnych",
+        "powinna być zapalona podczas pracy silnika",
+        "wszystkie odpowiedzi są nieprawidłowe"
+      ],
+      "correctAnswer": "oznacza przekroczenie okresu serwisowego lub awarie urządzenia"
+    },
+    {
+      "id": "119",
+      "text": "Pracując wózkiem z osprzętem wymiennym operator powinien",
+      "options": [
+        "przestrzegać zapisów instrukcji eksploatacji wózka oraz instrukcji osprzętu wymiennego",
+        "przestrzegać przepisów zakładowych",
+        "stosować się do właściwego diagramu udźwigu",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "120",
+      "text": "Osprzęt wymienny może być zainstalowany do wózka przez",
+      "options": [
+        "konserwatora wózków jezdniowych",
+        "operatora wózków jezdniowych",
+        "producenta osprzętu wymiennego",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "121",
+      "text": "Jaki wpływ na udźwig wózka ma zamontowany dodatkowy osprzęt wymienny",
+      "options": [
+        "zwiększa udźwig wózka",
+        "zmniejsza udźwig wózka",
+        "nie ma wpływu",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "zmniejsza udźwig wózka"
+    },
+    {
+      "id": "122",
+      "text": "Po montażu osprzętu wymiennego przewidzianego przez wytwórcę wózka",
+      "options": [
+        "urządzenie należy zgłosić do badania w UDT",
+        "urządzenie można eksploatować bez dodatkowych badan w UDT",
+        "operator wykonuje próby z przeciążeniem",
+        "operator dokonuje wpisu w dzienniku konserwacji"
+      ],
+      "correctAnswer": "urządzenie można eksploatować bez dodatkowych badan w UDT"
+    },
+    {
+      "id": "123",
+      "text": "Dźwignia oznaczona poniższym piktogramem, po wychyleniu przez operatora powoduje",
+      "image": "/images/q123widlaki.jpg",
+      "options": [
+        "uruchomienie mechanizmu podnoszenia",
+        "uruchomienie mechanizmu przechyłu",
+        "uruchomienie mechanizmu przesuwu bocznego",
+        "wszystkie odpowiedzi są nieprawidłowe"
+      ],
+      "correctAnswer": "uruchomienie mechanizmu przesuwu bocznego"
+    },
+    {
+      "id": "124",
+      "text": "Praca wózkiem z zamontowanymi przedłużkami do wideł jest dozwolona w przypadku gdy",
+      "options": [
+        "wytwórca nie zabronił takiej pracy",
+        "urządzenie jest wyposażone w stosowny diagram udźwigu",
+        "montaż przedłużek został wykonany zgodnie z zaleceniami wytwórcy",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "125",
+      "text": "Zabezpieczenie elektryczne montowane na zakończeniu dyszla wózka jezdniowego prowadzonego to",
+      "options": [
+        "łącznik STOP",
+        "łącznik brzuszny",
+        "kontakt zluzowania łańcucha nośnego",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "łącznik brzuszny"
+    },
+    {
+      "id": "126",
+      "text": "Który z elementów wyposażenia zabezpiecza przed uruchomieniem urządzenia przez osoby niepowołane?",
+      "options": [
+        "łącznik STOP",
+        "stacyjka",
+        "klawiatura kodów dostępu",
+        "odpowiedz b i c jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz b i c jest prawidłowa"
+    },
+    {
+      "id": "127",
+      "text": "Cecha 1500 x 500 znajdująca się na widle nośnej oznacza",
+      "options": [
+        "maksymalny udźwig jednej widły wynoszący 1,5 t w odległości 500 mm od czoła widły",
+        "maksymalny udźwig pary wideł wynoszący 1,5 t w odległości 500 mm od czoła wideł",
+        "wymiary zewnętrzne widły nośnej",
+        "symbol kontroli jakości"
+      ],
+      "correctAnswer": "maksymalny udźwig jednej widły wynoszący 1,5 t w odległości 500 mm od czoła widły"
+    },
+    {
+      "id": "128",
+      "text": "Maksymalny ładunek jaki można podnieść na parze wideł oznaczonych 2500 x 500 każda wynosi",
+      "options": ["0,5 t", "2,5 t", "5,0 t", "12,0 t"],
+      "correctAnswer": "5,0 t"
+    },
+    {
+      "id": "129",
+      "text": "Praca wózkiem jezdniowym podnośnikowym ze zbyt niskim poziomem oleju w układzie hydraulicznym może objawiać się",
+      "options": [
+        "skokowym, przerywanym ruchem siłownika do góry",
+        "brakiem realizacji wykonania zadanych ruchów mechanizmu podnoszenia",
+        "głośna praca pompy hydraulicznej",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "130",
+      "text": "Skokowy ruch mechanizmu podnoszenia do góry może być spowodowany",
+      "options": [
+        "zbyt niskim poziomem oleju w układzie hydraulicznym",
+        "nadmierna korozja łańcucha układu podnoszenia",
+        "uszkodzona rolka prowadząca masztu",
+        "uszkodzonym przewodem hydraulicznym zasilającym siłownik podnoszenia"
+      ],
+      "correctAnswer": "zbyt niskim poziomem oleju w układzie hydraulicznym"
+    },
+    {
+      "id": "131",
+      "text": "Nieszczelność w układzie hydraulicznym wózka jezdniowego podnośnikowego może się objawiać",
+      "options": [
+        "wyciekiem zewnętrznym",
+        "niekontrolowanym opadaniem ładunku",
+        "skokowym, przerywanym ruchem siłownika do góry",
+        "odpowiedz a i b jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz a i b jest prawidłowa"
+    },
+    {
+      "id": "132",
+      "text": "Gęstość oleju hydraulicznego w temperaturze ujemnej",
+      "options": [
+        "maleje",
+        "wzrasta",
+        "temperatura nie ma wpływu na gęstość oleju",
+        "pozostaje bez zmian"
+      ],
+      "correctAnswer": "wzrasta"
+    },
+    {
+      "id": "133",
+      "text": "Stan poziomu oleju w układzie hydraulicznym operator sprawdza",
+      "options": [
+        "zawsze przed rozpoczęciem i po zakończeniu pracy",
+        "zawsze 1 raz w miesiącu",
+        "zgodnie z zaleceniami zawartymi w instrukcji eksploatacji",
+        "zgodnie z zaleceniami zawartymi w protokole z badan okresowych"
+      ],
+      "correctAnswer": "zgodnie z zaleceniami zawartymi w instrukcji eksploatacji"
+    },
+    {
+      "id": "134",
+      "text": "O ile wytwórca nie określi inaczej, maksymalne odchylenie od pionowego położenia masztu obciążonego ciężarem nominalnym, spowodowane wewnętrznym przeciekiem w układzie wychyłu nie powinno przekroczyć",
+      "options": [
+        "5% w czasie 10 min",
+        "5° w czasie 10 min",
+        "10° w czasie 10 min",
+        "brak ustalonych wytycznych"
+      ],
+      "correctAnswer": "5° w czasie 10 min"
+    },
+    {
+      "id": "135",
+      "text": "O ile wytwórca nie określi inaczej, składowa opadania mechanizmu podnoszenia wózka o udźwigu do 10 t obciążonego ciężarem nominalnym nie powinna przekroczyć",
+      "options": [
+        "100 mm w ciągu pierwszych 10 min",
+        "50% długości siłownika w ciągu pierwszych 10 min",
+        "200 mm w ciągu pierwszych 10 min",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "100 mm w ciągu pierwszych 10 min"
+    },
+    {
+      "id": "136",
+      "text": "O ile wytwórca nie określi inaczej, składowa opadania mechanizmu podnoszenia wózka o udźwigu powyżej 10 t obciążonego ciężarem nominalnym nie powinna przekroczyć",
+      "options": [
+        "100 mm w ciągu pierwszych 10 min",
+        "50% długości siłownika w ciągu pierwszych 10 min",
+        "200 mm w ciągu pierwszych 10 min",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "200 mm w ciągu pierwszych 10 min"
+    },
+    {
+      "id": "137",
+      "text": "Optymalne obciążenie potrzebne do przeprowadzenia próby szczelności wewnętrznej układu hydraulicznego wynosi",
+      "options": [
+        "50% obciążenia nominalnego",
+        "100% obciążenia nominalnego",
+        "110% obciążenia nominalnego",
+        "125% obciążenia nominalnego"
+      ],
+      "correctAnswer": "100% obciążenia nominalnego"
+    },
+    {
+      "id": "138",
+      "text": "O ile wytyczne producenta nie stanowią inaczej, minimalna wysokość na jaką należy podnieść ładunek podczas próby szczelności wewnętrznej układu wychyłu masztu wynosi",
+      "options": ["100 mm", "500 mm", "2500 mm", "próby nie wykonuje się"],
+      "correctAnswer": "2500 mm"
+    },
+    {
+      "id": "139",
+      "text": "Sprawdzenie w bezpieczny sposób działania zaworu przelewowego należy wykonać",
+      "options": [
+        "z obciążeniem nominalnym",
+        "z obciążeniem 50% nominalnego",
+        "bez obciążenia",
+        "z obciążeniem 125% nominalnego"
+      ],
+      "correctAnswer": "bez obciążenia"
+    },
+    {
+      "id": "140",
+      "text": "Sprawdzenie układu hydraulicznego w wózkach podnośnikowych obejmuje",
+      "options": [
+        "próbę szczelności wewnętrznej",
+        "próbę zaworu przelewowego",
+        "ocenę szczelności zewnętrznej",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są poprawne"
+    },
+    {
+      "id": "141",
+      "text": "Sprawdzenie poprawności działania dźwigni sterowniczych należy wykonać",
+      "options": [
+        "sprawdzając zgodność realizowanych ruchów z oznaczeniami",
+        "bez obciążenia",
+        "wychylając dźwignie sterownicze we wszystkie przewidziane przez wytwórcę kierunki",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "142",
+      "text": "Zakres przeprowadzonych prób wózków jezdniowych podnośnikowych wyposażonych w hydrauliczny osprzęt dodatkowy obejmuje",
+      "options": [
+        "całe wyposażenia hydrauliczne wózka wraz z osprzętem dodatkowym",
+        "osprzęt nie stanowi wyposażenia wózka i nie podlega kontroli przez operatora",
+        "próby sprawdzające poprawność działania wykonuje tylko konserwator",
+        "próbę z obciążeniem 125%"
+      ],
+      "correctAnswer": "całe wyposażenia hydrauliczne wózka wraz z osprzętem dodatkowym"
+    },
+    {
+      "id": "143",
+      "text": "Akumulatory kwasowe można ładować",
+      "options": [
+        "w każdym pomieszczeniu niezależnie od przeznaczenia",
+        "tylko w pomieszczeniu klimatyzowanym",
+        "w miejscu specjalnie do tego przeznaczonym",
+        "wyłącznie w pomieszczeniach ogrzewanych"
+      ],
+      "correctAnswer": "w miejscu specjalnie do tego przeznaczonym"
+    },
+    {
+      "id": "144",
+      "text": "Pomieszczenie, w którym odbywa się ładowanie akumulatorów wózka",
+      "options": [
+        "nie musi posiadać wentylacji, ale musi być ogrzewane",
+        "musi być ogrzewane i musi posiadać wentylacje",
+        "musi posiadać wentylacje",
+        "brak jednoznacznych wytycznych"
+      ],
+      "correctAnswer": "musi posiadać wentylacje"
+    },
+    {
+      "id": "145",
+      "text": "Obowiązkiem operatora wózków jezdniowych podnośnikowych jest",
+      "options": [
+        "sprawdzenie stopnia naładowania akumulatora",
+        "sprawdzenie poziomu elektrolitu",
+        "sprawdzenie poprawności zamocowania akumulatora",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "146",
+      "text": "Osoba dokonująca wymiany rozładowanych akumulatorów powinna",
+      "options": [
+        "posiadać uprawnienia elektryczne SEP",
+        "przestrzegać wytycznych zawartych w instrukcji",
+        "posiadać zaświadczenie kwalifikacyjne do konserwacji wózków",
+        "posiadać zaświadczenie kwalifikacyjne do obsługi wózków"
+      ],
+      "correctAnswer": "przestrzegać wytycznych zawartych w instrukcji"
+    },
+    {
+      "id": "147",
+      "text": "Łącznik bezpieczeństwa STOP służy do",
+      "options": [
+        "awaryjnego zatrzymania pracy wózka",
+        "normalnego zatrzymania pracy silnika",
+        "zabezpiecza przed uruchomieniem wózka przez osoby nieuprawnione",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "awaryjnego zatrzymania pracy wózka"
+    },
+    {
+      "id": "148",
+      "text": "W przypadku stwierdzenia sytuacji niebezpiecznej operator wózka ma obowiązek",
+      "options": [
+        "zatrzymać wózek",
+        "przerwać prace",
+        "opuścić ładunek (pod warunkiem nie zwiększenia zagrożenia)",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "149",
+      "text": "Sprawdzenie poprawności działania łącznika bezpieczeństwa STOP należy wykonać",
+      "options": [
+        "tylko podczas przeglądów konserwacyjnych",
+        "tylko w ramach przeglądów specjalnych",
+        "zawsze przed rozpoczęciem pracy",
+        "nie ma konieczności sprawdzania poprawności działania"
+      ],
+      "correctAnswer": "zawsze przed rozpoczęciem pracy"
+    },
+    {
+      "id": "150",
+      "text": "Graniczne wartości zużycia ogumienia zawiera",
+      "options": [
+        "deklaracja zgodności CE",
+        "instrukcja eksploatacji wózka",
+        "protokół z badan UDT",
+        "dyrektywa maszynowa"
+      ],
+      "correctAnswer": "instrukcja eksploatacji wózka"
+    },
+    {
+      "id": "151",
+      "text": "Ciśnienie w oponach powinno być dostosowane do",
+      "options": [
+        "zaleceń instrukcji eksploatacji wózka",
+        "wyłącznie warunków panujących w miejscu eksploatacji",
+        "preferencji operatora",
+        "wymagań właściciela terenu"
+      ],
+      "correctAnswer": "zaleceń instrukcji eksploatacji wózka"
+    },
+    {
+      "id": "152",
+      "text": "Nierówne ciśnienie w oponach na jednej osi może spowodować",
+      "options": [
+        "poprawę właściwości jezdnych wózka",
+        "zmniejszenie stateczności wózka podczas transportu ładunków",
+        "nie ma żadnego wpływu na stateczność wózka",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "zmniejszenie stateczności wózka podczas transportu ładunków"
+    },
+    {
+      "id": "153",
+      "text": "Wpływ na przyspieszone zużycie opon pneumatycznych ma",
+      "options": [
+        "gwałtowne hamowanie, najeżdżanie na przeszkody z dużą prędkością",
+        "jazda ze zbyt niskim ciśnieniem",
+        "manewrowanie wózkiem na małej przestrzeni",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są poprawne"
+    },
+    {
+      "id": "154",
+      "text": "Nierównomierne zużycie opon pełnych znajdujących się na wspólnej osi",
+      "options": [
+        "poprawia właściwości jezdne wózka",
+        "nie ma żadnego wpływu na bezpieczna eksploatacje",
+        "może spowodować utratę stateczności wózka",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "może spowodować utratę stateczności wózka"
+    },
+    {
+      "id": "155",
+      "text": "Ocenę stanu technicznego ogumienia przeprowadza",
+      "options": [
+        "konserwator podczas przeglądów konserwacyjnych",
+        "operator w ramach czynności przed rozpoczęciem pracy",
+        "inspektor UDT w trakcie wykonywanych czynności",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "156",
+      "text": "W przypadku stwierdzenia uszkodzeń mechanicznych ogumienia, mających wpływ na bezpieczna eksploatację, operator wózka",
+      "options": [
+        "powiadamia przełożonego o stwierdzonej niezgodności, ale nie przerywa pracy",
+        "wstrzymuje prace urządzenia i powiadamia przełożonego o stwierdzonej niezgodności",
+        "kontynuuje prace zmniejszając prędkość jazdy",
+        "kontynuuje prace zmniejszając prędkości poruszania się"
+      ],
+      "correctAnswer": "wstrzymuje prace urządzenia i powiadamia przełożonego o stwierdzonej niezgodności"
+    },
+    {
+      "id": "157",
+      "text": "Operator po zauważeniu podczas jazdy palącej się lampki kontrolnej ciśnienia oleju silnika powinien",
+      "options": [
+        "zjechać w bezpieczne miejsce, opuścić ładunek, wyłączyć silnik",
+        "może kontynuować jazdę jeśli stan oleju jest prawidłowy",
+        "nie musi podejmować żadnych działań",
+        "odpowiedz b i c jest prawidłowa"
+      ],
+      "correctAnswer": "zjechać w bezpieczne miejsce, opuścić ładunek, wyłączyć silnik"
+    },
+    {
+      "id": "158",
+      "text": "Po zakończeniu pracy operator powinien",
+      "options": [
+        "upewnić się, ze widły są opuszczone, wózek jest w miejscu stałego postoju i nie stwarza zagrożenia",
+        "uruchomić hamulec postojowy",
+        "wcisnąć łącznik STOP",
+        "odpowiedz a i b jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz a i b jest prawidłowa"
+    },
+    {
+      "id": "159",
+      "text": "Sprawne dźwignie sterujące",
+      "options": [
+        "po zwolnieniu nacisku powinny samoczynnie wracać do pozycji neutralnych",
+        "mogą nie mieć oznaczeń gdy operator wie do czego służą",
+        "powinny realizować kierunki ruchów zgodne z oznaczeniami",
+        "odpowiedz a i c jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz a i c jest prawidłowa"
+    },
+    {
+      "id": "160",
+      "text": "Opis próby sprawdzenia poprawności działania hamulca zasadniczego opisuje",
+      "options": [
+        "instrukcja obsługi wózka",
+        "ustawa o dozorze technicznym",
+        "dyrektywa maszynowa",
+        "wewnętrzne przepisy zakładowe"
+      ],
+      "correctAnswer": "instrukcja obsługi wózka"
+    },
+    {
+      "id": "161",
+      "text": "Informacje dotyczące sposobu sprawdzania poprawności działania hamulca pomocniczego są zawarte w",
+      "options": [
+        "rozporządzeniu w sprawie eksploatacji urządzeń transportu bliskiego",
+        "instrukcji obsługi wózka",
+        "ustawie o dozorze technicznym",
+        "wytycznych inspektora BHP"
+      ],
+      "correctAnswer": "instrukcji obsługi wózka"
+    },
+    {
+      "id": "162",
+      "text": "Podczas próby hamulca zasadniczego maszt powinien być w pozycji",
+      "options": [
+        "pozycja masztu nie ma znaczenia",
+        "przechylony na siebie",
+        "przechylony od siebie",
+        "pionowej"
+      ],
+      "correctAnswer": "przechylony na siebie"
+    },
+    {
+      "id": "163",
+      "text": "Próbę hamulca zasadniczego należy przeprowadzać",
+      "options": [
+        "z ładunkiem 110% udźwigu urządzenia",
+        "z ładunkiem 125% udźwigu urządzenia",
+        "bez ładunku",
+        "bez ładunku a następnie z ładunkiem nominalnym"
+      ],
+      "correctAnswer": "bez ładunku a następnie z ładunkiem nominalnym"
+    },
+    {
+      "id": "164",
+      "text": "Jeżeli w czasie próby hamulca pomocniczego operator uzna, ze jego działanie jest nieprawidłowe powinien",
+      "options": [
+        "wstrzymać eksploatacje urządzenia",
+        "poinformować przełożonego",
+        "kontynuować prace ze zmniejszona prędkością jazdy",
+        "odpowiedz a i b jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz a i b jest prawidłowa"
+    },
+    {
+      "id": "165",
+      "text": "W przypadku stwierdzenia awarii układu hamulcowego operator powinien",
+      "options": [
+        "w ramach posiadanych kompetencji wykonać naprawę hamulca",
+        "wstrzymać eksploatacje urządzenia",
+        "poinformować Urząd Dozoru Technicznego",
+        "kontynuować prace z zachowaniem szczególnej ostrożności"
+      ],
+      "correctAnswer": "wstrzymać eksploatacje urządzenia"
+    },
+    {
+      "id": "166",
+      "text": "W przypadku stwierdzenia wycieku płynu hamulcowego, operator powinien",
+      "options": [
+        "uzupełnić płyn hamulcowy i kontynuować jazdę do zakończenia pracy",
+        "wstrzymać eksploatacje urządzenia i powiadomić przełożonego",
+        "wstrzymać eksploatacje urządzenia i powiadomić inspektora UDT",
+        "odpowiedz b i c jest prawidłowa"
+      ],
+      "correctAnswer": "wstrzymać eksploatacje urządzenia i powiadomić przełożonego"
+    },
+    {
+      "id": "167",
+      "text": "W przypadku stwierdzenia niewłaściwego działania hamulca pomocniczego, operator",
+      "options": [
+        "na wyraźne polecenie przełożonego dokonuje jego naprawy",
+        "zgłasza awarie do UDT",
+        "wstrzymuje eksploatacje urządzenia i powiadamia przełożonego",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "wstrzymuje eksploatacje urządzenia i powiadamia przełożonego"
+    },
+    {
+      "id": "168",
+      "text": "Hamulec zasadniczy należy sprawdzać jadąc wózkiem podnośnikowym i hamując",
+      "options": [
+        "do przodu",
+        "do tyłu",
+        "w obu kierunkach",
+        "hamulec sprawdza tylko konserwator"
+      ],
+      "correctAnswer": "w obu kierunkach"
+    },
+    {
+      "id": "169",
+      "text": "Operator powinien przeprowadzić sprawdzenie hamulców",
+      "options": [
+        "zgodnie z terminami zawartymi w instrukcji konserwacji",
+        "raz na miesiąc",
+        "raz na tydzień",
+        "zawsze przed rozpoczęciem pracy"
+      ],
+      "correctAnswer": "zawsze przed rozpoczęciem pracy"
+    },
+    {
+      "id": "170",
+      "text": "Schodząc z fotela operatora, Obsługujący wózek powinien",
+      "options": [
+        "zawsze załączyć hamulec postojowy",
+        "załączyć hamulec postojowy tylko w przypadku postoju wózka na wzniesieniu",
+        "unieść widły na maksymalna wysokość",
+        "przechylić maszt w pozycje na siebie"
+      ],
+      "correctAnswer": "zawsze załączyć hamulec postojowy"
+    },
+    {
+      "id": "171",
+      "text": "Zakres czynności kontrolnych masztu wózka podnośnikowego obejmuje",
+      "options": [
+        "sprawdzenie czy nie wystąpiły pęknięcia",
+        "sprawdzenie stanu rolek prowadzących",
+        "sprawdzenie ogranicznika krańcowego położenia karetki",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są poprawne"
+    },
+    {
+      "id": "172",
+      "text": "Podczas jazdy wózkiem podnośnikowym z ładunkiem na widłach należy",
+      "options": [
+        "manipulować pochyłem masztu w zależności od ukształtowania terenu",
+        "poruszać się z masztem przechylonym na siebie",
+        "transportować ładunek w dowolny wybrany przez operatora sposób",
+        "manipulować pochyłem masztu w zależności od prędkości poruszania się"
+      ],
+      "correctAnswer": "poruszać się z masztem przechylonym na siebie"
+    },
+    {
+      "id": "173",
+      "text": "Ładunek należy transportować",
+      "options": [
+        "na wysokości powyżej linii wzroku operatora, jeżeli poprawia to widoczność",
+        "na wysokości około 20-30 cm nad poziomem podłoża",
+        "na dowolnej wysokości",
+        "na wysokości ok 90 cm"
+      ],
+      "correctAnswer": "na wysokości około 20-30 cm nad poziomem podłoża"
+    },
+    {
+      "id": "174",
+      "text": "Podczas zjazdu z pochyłej rampy wózkiem czołowym podnośnikowym wraz z ładunkiem, operator",
+      "options": [
+        "porusza się przodem",
+        "porusza się tyłem",
+        "zachowuje szczególna ostrożność",
+        "odpowiedz b i c jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz b i c jest prawidłowa"
+    },
+    {
+      "id": "175",
+      "text": "Podczas wjazdu na pochyła rampę wózkiem jezdniowym podnośnikowym z ładunkiem ograniczającym widoczność, operator",
+      "options": [
+        "korzysta z pomocy drugiej osoby",
+        "porusza się przodem",
+        "porusza się tyłem",
+        "odpowiedz a i b jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz a i b jest prawidłowa"
+    },
+    {
+      "id": "176",
+      "text": "Poruszanie się wózkiem w poprzek pochyłej rampy jest",
+      "options": [
+        "zabronione",
+        "dozwolone",
+        "dopuszczalne pod warunkiem zachowania szczególnej ostrożności",
+        "dopuszczalne pod warunkiem obciążenia wózka ładunkiem uniesionym na minimalna wysokość"
+      ],
+      "correctAnswer": "zabronione"
+    },
+    {
+      "id": "177",
+      "text": "Poruszając się wózkiem z ładunkiem ograniczającym widoczność operator powinien",
+      "options": [
+        "jechać tyłem",
+        "jechać przodem, z pomocą osoby informującej o zagrożeniach",
+        "poruszać się z bezpieczna prędkością",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "178",
+      "text": "Podczas jazdy wózkiem jezdniowym podnośnikowym z ładunkiem należy",
+      "options": [
+        "unikać gwałtownych skrętów",
+        "przewozić ładunek na wysokości transportowej",
+        "dostosować prędkość jazdy do panujących warunków",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "179",
+      "text": "Wylot zaworu butli gazowej powinien być skierowany",
+      "options": ["w dół", "w górę", "poziomo", "pozycja nie ma znaczenia"],
+      "correctAnswer": "w dół"
+    },
+    {
+      "id": "180",
+      "text": "Szczelność instalacji gazowej sprawdza się przy pomocy",
+      "options": [
+        "detektora gazu",
+        "specjalnego środka",
+        "wody mydlanej",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "181",
+      "text": "Eksploatacja wózka jezdniowego w temperaturze poniżej -10?C",
+      "options": [
+        "jest dozwolona pod warunkiem wyposażenia wózka w ogrzewanie kabiny operatora",
+        "jest dozwolona jeśli instrukcja eksploatacji na to zezwala",
+        "jest zabroniona z uwagi na możliwości utraty przyczepności",
+        "jest zabroniona z uwagi na zmianę parametrów technicznych oleju hydraulicznego"
+      ],
+      "correctAnswer": "jest dozwolona jeśli instrukcja eksploatacji na to zezwala"
+    },
+    {
+      "id": "182",
+      "text": "Eksploatacja wózka jezdniowego w temperaturze powyżej 30?C",
+      "options": [
+        "jest zabroniona z uwagi na pogorszenie warunków pracy operatora",
+        "jest dozwolona pod warunkiem wyposażenia wózka w klimatyzowana kabinę operatora",
+        "jest zabroniona z uwagi na zmianę parametrów technicznych oleju hydraulicznego",
+        "jest dozwolona jeśli instrukcja eksploatacji na to zezwala"
+      ],
+      "correctAnswer": "jest dozwolona jeśli instrukcja eksploatacji na to zezwala"
+    },
+    {
+      "id": "183",
+      "text": "W oparciu o tabele określ jakie maksymalne obciążenie może przenieść gniazdo ładunkowe regału",
+      "image": "/images/q183widlaki.jpg",
+      "options": ["1320 kg", "1100 kg", "2700 kg", "2200 kg"],
+      "correctAnswer": "2200 kg"
+    },
+    {
+      "id": "184",
+      "text": "W oparciu o tabele, określ na które najwyższe gniazdo ładunkowe podasz towar dysponując wózkiem o maksymalnej wysokości podnoszenia 2100 mm",
+      "image": "/images/q184widlaki.jpg",
+      "options": ["gniazdo 1", "gniazdo 2", "gniazdo 3", "gniazdo 4"],
+      "correctAnswer": "gniazdo 3"
+    },
+    {
+      "id": "185",
+      "text": "Odstawiając ładunek na regał magazynowy operator powinien znać",
+      "options": [
+        "masę towaru i obciążenie maksymalne gniazda regału",
+        "masę towaru i obciążenie minimalne ramy regału",
+        "wymiary zewnętrzne transportowanego ładunku",
+        "odpowiedz a i c jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz a i c jest prawidłowa"
+    },
+    {
+      "id": "186",
+      "text": "Podczas transportu ładunków wielkogabarytowych operator powinien",
+      "options": [
+        "jechać tyłem",
+        "jechać przodem wychylając się poza obrys wózka",
+        "jechać przodem korzystając z pomocy drugiej osoby",
+        "odpowiedz a i c jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz a i c jest prawidłowa"
+    },
+    {
+      "id": "187",
+      "text": "Na co powinien zwrócić uwagę operator podczas wymiany baterii trakcyjnych?",
+      "options": [
+        "na masę i wymiary baterii",
+        "na pojemność baterii",
+        "na dane adresowe producenta baterii",
+        "odpowiedzi a i b są prawidłowe"
+      ],
+      "correctAnswer": "na masę i wymiary baterii"
+    },
+    {
+      "id": "188",
+      "text": "Przyczyną utraty stateczności wózka może być",
+      "options": [
+        "zbyt niskie ciśnienie w oponach",
+        "szybka jazda w zakrętach",
+        "gwałtowne hamowanie przy jeździe z ładunkiem",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "189",
+      "text": "Dopuszczalna prędkość jazdy wózka jest określona",
+      "options": [
+        "w ustawie o dozorze technicznym",
+        "w protokole badania wystawionym przez UDT",
+        "w decyzji zezwalającej na eksploatacje",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są niepoprawne"
+    },
+    {
+      "id": "190",
+      "text": "Przed rozpoczęciem pracy wózkiem należy sprawdzić funkcjonowanie",
+      "options": [
+        "układu hydraulicznego",
+        "układu hamulcowego",
+        "układu kierowniczego",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "191",
+      "text": "Po zamontowaniu dodatkowego osprzętu wymiennego należy",
+      "options": [
+        "zapoznać się z właściwym diagramem udźwigu",
+        "zgłosić do UDT w celu wykonania badania technicznego",
+        "sprawdzić, czy zakres posiadanych uprawnień do obsługi obejmuje zamontowany osprzęt",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "zapoznać się z właściwym diagramem udźwigu"
+    },
+    {
+      "id": "192",
+      "text": "Przed wjazdem wózkiem na rampę załadowcza operator powinien sprawdzić",
+      "options": [
+        "kat nachylenia rampy, oraz zdolność wózka do pokonywania wzniesień",
+        "nośność rampy",
+        "ciężar ładunku oraz masę własna wózka",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "193",
+      "text": "Podczas jazdy wózkiem podnośnikowym należy",
+      "options": [
+        "przestrzegać przepisów BHP",
+        "stosować się do znaków, oznaczeń i symboli umieszczonych w obszarze pracy wózka",
+        "przestrzegać instrukcji obsługi wózka",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "194",
+      "text": "Gdzie znajduje się informacja dotycząca udźwigu wózka",
+      "options": [
+        "w instrukcji eksploatacji wózka",
+        "na tabliczce znamionowej wózka",
+        "na diagramie udźwigu",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "195",
+      "text": "Przed rozpoczęciem pracy wózkiem należy",
+      "options": [
+        "zapoznać się z zakresem pracy",
+        "określić masę transportowanego ładunku",
+        "sprawdzić, czy osprzęt wózka jest właściwie dobrany do ładunku",
+        "wszystkie odpowiedzi są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są prawidłowe"
+    },
+    {
+      "id": "196",
+      "text": "Praca wózka z koszem do podnoszenia osób zakładanym na widły",
+      "options": [
+        "jest dozwolona wyłącznie po uzgodnieniu szczegółowych warunków eksploatacji z UDT",
+        "jest dozwolona bez dodatkowych wymagań",
+        "jest zabroniona",
+        "jest dozwolona za zgoda właściciela zakładu bez dodatkowych wymagań"
+      ],
+      "correctAnswer": "jest dozwolona wyłącznie po uzgodnieniu szczegółowych warunków eksploatacji z UDT"
+    },
+    {
+      "id": "197",
+      "text": "W przypadku kiedy wózek traci stateczność, operator",
+      "options": [
+        "stara się opuścić kabinę wózka (przed jego wywróceniem się)",
+        "pozostaje w kabinie",
+        "utrzymuje pozycje siedząca trzymając się mocno kierownicy",
+        "odpowiedz b i c jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz b i c jest prawidłowa"
+    },
+    {
+      "id": "198",
+      "text": "W chwili wywracania się wózka należy",
+      "options": [
+        "niezwłocznie wyskoczyć z kabiny",
+        "ostro zahamować",
+        "skręcić gwałtownie koła w kierunku przechylenia, by spróbować zapobiec wywróceniu",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są niepoprawne"
+    },
+    {
+      "id": "199",
+      "text": "Wózek może stracić stateczność na skutek",
+      "options": [
+        "podnoszenia ładunku o ciężarze większym niż udźwig wózka",
+        "wykonywania gwałtownych skrętów kół podczas jazdy",
+        "zawracania wózkiem na wzniesieniu",
+        "wszystkie powyżej są prawidłowe"
+      ],
+      "correctAnswer": "wszystkie powyżej są prawidłowe"
+    },
+    {
+      "id": "200",
+      "text": "Jeżeli instrukcja wózka nie stanowi inaczej, następujące w toku eksploatacji maksymalne wydłużenie łańcucha nośnego może wynosić",
+      "options": ["3 cm", "3 mm", "3%", "10%"],
+      "correctAnswer": "3%"
+    },
+    {
+      "id": "201",
+      "text": "Jeżeli instrukcja wózka nie stanowi inaczej, dopuszczalna ilość pękniętych płytek łańcucha nośnego (konstrukcji Flyera) wynosi",
+      "options": [
+        "3% całkowitej ilości płytek",
+        "6 sztuk na długości 30 ogniw",
+        "1 sztuka na każdy metr łańcucha",
+        "0"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": "202",
+      "text": "Jeżeli instrukcja wózka nie stanowi inaczej, minimalna dopuszczalna grubość poziomej części wideł zmierzona w pobliżu ich naroża (piety) wynosi",
+      "options": [
+        "25 mm przy grubości nominalnej 30 mm",
+        "57 mm przy grubości nominalnej 60 mm",
+        "36 mm przy grubości nominalnej 40 mm",
+        "zawsze wynosi 50% grubości nominalnej wideł"
+      ],
+      "correctAnswer": "36 mm przy grubości nominalnej 40 mm"
+    },
+    {
+      "id": "203",
+      "text": "Jeżeli instrukcja wózka nie stanowi inaczej, minimalna dopuszczalna grubość poziomej części wideł zmierzona w pobliżu ich naroża (piety) wynosi",
+      "options": [
+        "27 mm przy grubości nominalnej 30 mm",
+        "57 mm przy grubości nominalnej 60 mm",
+        "25 mm przy grubości nominalnej 30 mm",
+        "zawsze wynosi 50% grubości nominalnej wideł"
+      ],
+      "correctAnswer": "27 mm przy grubości nominalnej 30 mm"
+    },
+    {
+      "id": "204",
+      "text": "Jeżeli instrukcja wózka nie stanowi inaczej, minimalna dopuszczalna grubość poziomej części wideł zmierzona w pobliżu ich naroża (piety) wynosi",
+      "options": [
+        "25 mm przy grubości nominalnej 30 mm",
+        "55 mm przy grubości nominalnej 60 mm",
+        "40 mm przy grubości nominalnej 60 mm",
+        "zawsze wynosi 50% grubości nominalnej wideł"
+      ],
+      "correctAnswer": "55 mm przy grubości nominalnej 60 mm"
+    },
+    {
+      "id": "205",
+      "text": "Jeżeli instrukcja wózka nie stanowi inaczej, minimalna dopuszczalna grubość poziomej części wideł zmierzona w pobliżu ich naroża (piety) wynosi",
+      "options": [
+        "25 mm przy grubości nominalnej 30 mm",
+        "45 mm przy grubości nominalnej 50 mm",
+        "50 mm przy grubości nominalnej 60 mm",
+        "zawsze wynosi 50% grubości nominalnej wideł"
+      ],
+      "correctAnswer": "45 mm przy grubości nominalnej 50 mm"
+    },
+    {
+      "id": "206",
+      "text": "Jeżeli instrukcja wózka nie stanowi inaczej, maksymalne dopuszczalne rozgięcie widły względem wartości oryginalnej (zwykle 90 stopni), wynosi",
+      "options": ["1 cm", "3%", "3 stopnie", "0 stopni"],
+      "correctAnswer": "3 stopnie"
+    },
+    {
+      "id": "207",
+      "text": "W oparciu o przedstawiony diagram udźwigu i rysunek określ maksymalna bezpieczna wysokość podnoszenia ładunku pobranego od strony A",
+      "image": "/images/q207widlaki.jpg",
+      "options": [
+        "4836 mm",
+        "4030 mm",
+        "3100 mm",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "4836 mm"
+    },
+    {
+      "id": "208",
+      "text": "W oparciu o przedstawiony diagram udźwigu i rysunek określ maksymalna bezpieczna wysokość podnoszenia ładunku pobranego od strony B",
+      "image": "/images/q208widlaki.jpg",
+      "options": [
+        "3100 mm",
+        "4836 mm",
+        "4030 mm",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "4030 mm"
+    },
+    {
+      "id": "209",
+      "text": "W oparciu o przedstawiony diagram udźwigu i rysunek określ maksymalna bezpieczna wysokość podnoszenia ładunku pobranego od strony A",
+      "image": "/images/q209widlaki.jpg",
+      "options": [
+        "3510 mm",
+        "4212 mm",
+        "2700 mm",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "3510 mm"
+    },
+    {
+      "id": "210",
+      "text": "W oparciu o przedstawiony diagram udźwigu i rysunek określ maksymalna bezpieczna wysokość podnoszenia ładunku pobranego od strony B",
+      "image": "/images/q210widlaki.jpg",
+      "options": [
+        "4212 mm",
+        "2700 mm",
+        "3520 mm",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są niepoprawne"
+    },
+    {
+      "id": "211",
+      "text": "W oparciu o przedstawiony diagram udźwigu i rysunek określ maksymalna bezpieczna wysokość podnoszenia ładunku pobranego od strony A",
+      "image": "/images/q211widlaki.jpg",
+      "options": [
+        "2600 mm",
+        "3380 mm",
+        "4056 mm",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "4056 mm"
+    },
+    {
+      "id": "212",
+      "text": "W oparciu o przedstawiony diagram udźwigu i rysunek określ maksymalna bezpieczna wysokość podnoszenia ładunku pobranego od strony B",
+      "image": "/images/q212widlaki.jpg",
+      "options": [
+        "4056 mm",
+        "2600 mm",
+        "3380 mm",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "2600 mm"
+    },
+    {
+      "id": "213",
+      "text": "W oparciu o przedstawiony diagram udźwigu i rysunek określ maksymalna bezpieczna wysokość podnoszenia ładunku pobranego od strony A",
+      "image": "/images/q213widlaki.jpg",
+      "options": [
+        "3640 mm",
+        "4368 mm",
+        "2800 mm",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "2800 mm"
+    },
+    {
+      "id": "214",
+      "text": "W oparciu o przedstawiony diagram udźwigu i rysunek określ maksymalna bezpieczna wysokość podnoszenia ładunku pobranego od strony B",
+      "image": "/images/q214widlaki.jpg",
+      "options": [
+        "2800 mm",
+        "3640 mm",
+        "4368 mm",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są niepoprawne"
+    },
+    {
+      "id": "215",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna bezpieczna wysokość podnoszenia ładunku pobranego z kierunku A",
+      "image": "/images/q215widlaki.jpg",
+      "options": ["2350 mm", "3300 mm", "1400 mm", "1300 mm"],
+      "correctAnswer": "3300 mm"
+    },
+    {
+      "id": "216",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna bezpieczna wysokość podnoszenia, ładunku pobranego z kierunku A",
+      "image": "/images/q216widlaki.jpg",
+      "options": ["700 mm", "1200 mm", "4500 mm", "1800 mm"],
+      "correctAnswer": "4500 mm"
+    },
+    {
+      "id": "217",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek wskaż, na który regał lub regały można postawić ładunek",
+      "image": "/images/q217widlaki.jpg",
+      "options": [
+        "Regał 1",
+        "Regał 2",
+        "Regał 3",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są poprawne"
+    },
+    {
+      "id": "218",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek wskaż, na który regał lub regały można postawić ładunek",
+      "image": "/images/q2xxwidlaki.jpg",
+      "options": [
+        "Regał 1",
+        "Regał 2",
+        "Regał 3",
+        "wszystkie odpowiedzi są poprawne"
+      ],
+      "correctAnswer": "Regał 1"
+    },
+    {
+      "id": "219",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek wskaż, na który regał lub regały można postawić ładunek",
+      "image": "/images/q219widlaki.jpg",
+      "options": [
+        "Regał 1",
+        "Regał 2",
+        "Regał 3",
+        "odpowiedz a i b jest prawidłowa"
+      ],
+      "correctAnswer": "odpowiedz a i b jest prawidłowa"
+    },
+    {
+      "id": "220",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna bezpieczna wysokość podnoszenia, ładunku pobranego z kierunku A",
+      "image": "/images/q220widlaki.jpg",
+      "options": ["5940 mm", "7890 mm", "3600 mm", "4500 mm"],
+      "correctAnswer": "5940 mm"
+    },
+    {
+      "id": "221",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna bezpieczna wysokość podnoszenia, ładunku pobranego z kierunku B",
+      "image": "/images/q221widlaki.jpg",
+      "options": ["5940 mm", "7890 mm", "3600 mm", "4500 mm"],
+      "correctAnswer": "3600 mm"
+    },
+    {
+      "id": "222",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna bezpieczna wysokość podnoszenia, ładunku pobranego z kierunku A",
+      "image": "/images/q222widlaki.jpg",
+      "options": ["4860 mm", "8820 mm", "7070 mm", "10820 mm"],
+      "correctAnswer": "7070 mm"
+    },
+    {
+      "id": "223",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna bezpieczna wysokość podnoszenia, ładunku pobranego z kierunku B",
+      "image": "/images/q223widlaki.jpg",
+      "options": ["4860 mm", "5660 mm", "7070 mm", "10820 mm"],
+      "correctAnswer": "5660 mm"
+    },
+    {
+      "id": "224",
+      "text": "W oparciu o przedstawiony diagram udźwigu określ maksymalny udźwig wózka na wysokości 6 m",
+      "image": "/images/q224widlaki.jpg",
+      "options": ["1300 kg", "1500 kg", "1700 kg", "2000 kg"],
+      "correctAnswer": "1500 kg"
+    },
+    {
+      "id": "225",
+      "text": "W oparciu o przedstawiony diagram udźwigu określ maksymalny udźwig wózka na wysokości 6,7 m",
+      "image": "/images/q225widlaki.jpg",
+      "options": ["1400 kg", "1200 kg", "1000 kg", "1300 kg"],
+      "correctAnswer": "1000 kg"
+    },
+    {
+      "id": "226",
+      "text": "W oparciu o przedstawiony diagram udźwigu określ maksymalna masę ładunku, o wymiarach podstawy 1,6 m x 1,6 m",
+      "image": "/images/q226widlaki.jpg",
+      "options": ["4,5 t", "4,0 t", "3,5 t", "3,0 t"],
+      "correctAnswer": "4,0 t"
+    },
+    {
+      "id": "227",
+      "text": "W oparciu o przedstawiony diagram udźwigu określ maksymalna masę ładunku, o wymiarach podstawy 2 m x 2 m",
+      "image": "/images/q227widlaki.jpg",
+      "options": ["2,5 t", "3,5 t", "4,5 t", "3,0 t"],
+      "correctAnswer": "3,5 t"
+    },
+    {
+      "id": "228",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna masę ładunku pobranego od strony B",
+      "image": "/images/q228widlaki.jpg",
+      "options": ["1300 kg", "1400 kg", "1600 kg", "2300 kg"],
+      "correctAnswer": "1400 kg"
+    },
+    {
+      "id": "229",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna masę ładunku pobranego od strony A",
+      "image": "/images/q229widlaki.jpg",
+      "options": ["1500 kg", "2000 kg", "2300 kg", "2500 kg"],
+      "correctAnswer": "2300 kg"
+    },
+    {
+      "id": "230",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna masę ładunku pobranego od strony B",
+      "image": "/images/q230widlaki.jpg",
+      "options": ["1100 kg", "1450 kg", "1800 kg", "2300 kg"],
+      "correctAnswer": "1450 kg"
+    },
+    {
+      "id": "231",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna masę ładunku, jaką można bezpiecznie podnieść pobierając ładunek od strony A :",
+      "image": "/images/q231widlaki.jpg",
+      "options": ["1500 kg", "2000 kg", "2300 kg", "1800 kg"],
+      "correctAnswer": "1800 kg"
+    },
+    {
+      "id": "232",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna masę ładunku, jaką można bezpiecznie podnieść pobierając ładunek od strony A",
+      "image": "/images/q232widlaki.jpg",
+      "options": [
+        "2695 kg",
+        "3185 kg",
+        "3500 kg",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "3500 kg"
+    },
+    {
+      "id": "233",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna masę ładunku, jaką można bezpiecznie podnieść pobierając ładunek od strony B",
+      "image": "/images/q233widlaki.jpg",
+      "options": [
+        "2695 kg",
+        "3500 kg",
+        "3185 kg",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "3185 kg"
+    },
+    {
+      "id": "234",
+      "text": "W oparciu o przedstawiony diagram udźwigu określ maksymalny udźwig wózka, podnoszącego ładunek na wysokość 3000 mm",
+      "image": "/images/q234widlaki.jpg",
+      "options": ["2400 kg", "3600 kg", "3500 kg", "1500 kg"],
+      "correctAnswer": "3600 kg"
+    },
+    {
+      "id": "235",
+      "text": "W oparciu o przedstawiony diagram udźwigu określ maksymalny udźwig wózka, podnoszącego ładunek na wysokość 4000 mm",
+      "image": "/images/q235widlaki.jpg",
+      "options": [
+        "3300 kg",
+        "4000 kg",
+        "3400 kg",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "3400 kg"
+    },
+    {
+      "id": "236",
+      "text": "W oparciu o przedstawiony diagram udźwigu określ maksymalny udźwig wózka, podnoszącego ładunek na wysokość 5000 mm",
+      "image": "/images/q236widlaki.jpg",
+      "options": [
+        "4000 kg",
+        "2700 kg",
+        "3400 kg",
+        "wszystkie odpowiedzi są niepoprawne"
+      ],
+      "correctAnswer": "wszystkie odpowiedzi są niepoprawne"
+    },
+    {
+      "id": "237",
+      "text": "W oparciu o przedstawiony diagram udźwigu oraz rysunek określ maksymalna masę ładunku jaką można bezpiecznie podnieść na wysokość 4000 mm, pobierając od strony B",
+      "image": "/images/q237widlaki.jpg",
+      "options": ["3400 kg", "2900 kg", "2700 kg", "3600 kg"],
+      "correctAnswer": "2900 kg"
     },
     {
       "id": "238",

@@ -22,7 +22,7 @@ const Question = ({ question, options, onNextQuestion }) => {
   };
   return (
     <div>
-      <h2>{question.text}</h2>
+      <h2>[#{question.id}]{" "}{question.text}</h2> 
       {question.image && <img src={question.image} alt="Question" />}
       <ol type="a">
         {options.map((option) => (
