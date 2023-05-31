@@ -10,22 +10,47 @@ const App = () => {
   const [finished, setFinished] = useState(false);
 
   useEffect(() => {
-    // Tworzenie kopii pytań, aby nie zmieniać oryginalnej tablicy
-    const shuffledQuestions = [...questionsData.questions];
-    // Losowe sortowanie pytań
-    shuffledQuestions.sort(() => Math.random() - 0.5);
-    setQuestions(shuffledQuestions);
+    const questionJSON = localStorage.getItem("questions");
+    const savedQuestions = questionJSON ? JSON.parse(questionJSON) : null;
+    if (savedQuestions && savedQuestions.length !== 0) {
+      setQuestions(savedQuestions.questions);
+      setCurrentQuestionIndex(savedQuestions.currentQuestionIndex);
+      setScore(savedQuestions.score);
+    } else {
+      // Tworzenie kopii pytań, aby nie zmieniać oryginalnej tablicy
+      const shuffledQuestions = [...questionsData.questions];
+      // Losowe sortowanie pytań
+      shuffledQuestions.sort(() => Math.random() - 0.5);
+      const questionsAndIndexToSave = {
+        questions: shuffledQuestions,
+        currentQuestionIndex,
+        score,
+      };
+      localStorage.setItem(
+        "questions",
+        JSON.stringify(questionsAndIndexToSave)
+      );
+      setQuestions(shuffledQuestions);
+    }
   }, []);
 
   const handleFinish = () => {
+    localStorage.removeItem("questions");
     setFinished(true);
   };
 
   const handleNextQuestion = (isCorrect) => {
-    if (isCorrect) {
-      setScore(score + 1);
-    }
-    setCurrentQuestionIndex(currentQuestionIndex + 1);
+    const newScore = isCorrect ? score + 1 : score;
+    setScore(newScore);
+
+    const newCurrentQuestionIndex = currentQuestionIndex + 1;
+    setCurrentQuestionIndex(newCurrentQuestionIndex);
+    const questionsAndIndexToSave = {
+      questions,
+      currentQuestionIndex: newCurrentQuestionIndex,
+      score: newScore,
+    };
+    localStorage.setItem("questions", JSON.stringify(questionsAndIndexToSave));
   };
 
   if (currentQuestionIndex >= questions.length || finished) {

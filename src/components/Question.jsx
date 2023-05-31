@@ -22,7 +22,9 @@ const Question = ({ question, options, onNextQuestion }) => {
   };
   return (
     <div>
-      <h2>[#{question.id}]{" "}{question.text}</h2> 
+      <h2>
+        [#{question.id}] {question.text}
+      </h2>
       {question.image && <img src={question.image} alt="Question" />}
       <ol type="a">
         {options.map((option) => (
@@ -51,7 +53,7 @@ const Question = ({ question, options, onNextQuestion }) => {
           </li>
         ))}
       </ol>
-      <div>
+      <div style={{ marginBottom: "50px" }}>
         {isAnswered ? (
           <button style={{ marginLeft: "200px" }} onClick={handleNextQuestion}>
             Następne pytanie
@@ -60,6 +62,7 @@ const Question = ({ question, options, onNextQuestion }) => {
           <button
             style={{ marginLeft: "2%", width: "150px" }}
             onClick={checkAnswer}
+            disabled={selectedOption === null}
           >
             Sprawdź odpowiedź
           </button>
