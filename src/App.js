@@ -38,7 +38,9 @@ const App = () => {
     localStorage.removeItem("questions");
     setFinished(true);
   };
-
+  const handleRefresh = () => {
+    window.location.reload();
+  };
   const handleNextQuestion = (isCorrect) => {
     const newScore = isCorrect ? score + 1 : score;
     setScore(newScore);
@@ -51,6 +53,9 @@ const App = () => {
       score: newScore,
     };
     localStorage.setItem("questions", JSON.stringify(questionsAndIndexToSave));
+    if (newCurrentQuestionIndex >= questions.length) {
+      handleFinish();
+    }
   };
 
   if (currentQuestionIndex >= questions.length || finished) {
@@ -61,6 +66,7 @@ const App = () => {
           <p>
             Poprawne odpowiedzi: {score} z {currentQuestionIndex}
           </p>{" "}
+          <button onClick={handleRefresh}>Shrek! Ja chcę jeszcze raz!</button>
           <Footer />
         </div>
       </>
